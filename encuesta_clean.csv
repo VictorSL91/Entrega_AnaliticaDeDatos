@@ -1,0 +1,1199 @@
+"rol","unidad","años_institucion","comp_digital","uso_plataformas","uso_herramientas_av","actitud_cambio","capacitacion_ti","frecuencia_uso","plan_td","liderazgo_td","presupuesto_ti","dig_matricula","dig_notas","dig_titulacion","dig_pagos","firma_electronica","exp_facilidad","exp_confiabilidad","exp_servicios_enlinea","exp_satisfaccion","problemas_acceso","madurez_actual","madurez_futura","prob_avance_5a"
+"Autoridad/Directivo","Facultad de Ciencias Administrativas",19,2,1,3,3,0,4,2,3,1,3,3,5,NA,0,NA,NA,NA,NA,NA,5,2,3
+"Autoridad/Directivo","Facultad de Ciencias Administrativas",14,1,3,4,3,2,NA,1,5,3,3,3,1,5,0,NA,NA,NA,NA,NA,4,2,4
+"Autoridad/Directivo","Facultad de Ingeniería Civil y Ambiental",8,4,1,NA,4,2,3,3,5,1,4,5,3,4,0,NA,NA,NA,NA,NA,2,1,4
+"Autoridad/Directivo","Facultad de Ingeniería Química y Agroindustria",8,1,5,NA,2,0,1,2,4,3,2,2,1,NA,1,NA,NA,NA,NA,NA,3,3,2
+"Autoridad/Directivo","Facultad de Ingeniería Civil y Ambiental",1,3,2,5,4,NA,2,1,4,4,3,4,5,4,0,NA,NA,NA,NA,NA,5,NA,1
+"Autoridad/Directivo","Facultad de Ingeniería Eléctrica y Electrónica",13,4,3,2,2,3,2,4,3,2,4,4,3,2,0,NA,NA,NA,NA,NA,NA,4,4
+"Autoridad/Directivo","Facultad de Ingeniería Eléctrica y Electrónica",7,3,1,NA,3,NA,2,5,5,2,3,3,1,3,1,NA,NA,NA,NA,NA,3,1,3
+"Autoridad/Directivo","Facultad de Ingeniería Química y Agroindustria",4,4,2,NA,2,0,3,3,1,2,4,NA,3,4,0,NA,NA,NA,NA,NA,3,2,3
+"Autoridad/Directivo","Facultad de Ingeniería Civil y Ambiental",0,3,3,4,NA,0,1,1,3,1,3,NA,1,5,NA,NA,NA,NA,NA,NA,3,4,4
+"Autoridad/Directivo","Facultad de Ingeniería de Sistemas",6,2,5,5,3,2,NA,3,5,1,2,NA,4,3,0,NA,NA,NA,NA,NA,2,NA,2
+"Autoridad/Directivo","Facultad de Ingeniería Mecánica",3,2,1,2,2,0,NA,5,3,2,NA,4,3,2,1,NA,NA,NA,NA,NA,1,2,2
+"Autoridad/Directivo","Facultad de Ingeniería Química y Agroindustria",6,5,3,4,NA,3,4,3,3,1,1,3,2,4,0,NA,NA,NA,NA,NA,2,5,4
+"Autoridad/Directivo","Facultad de Ingeniería Química y Agroindustria",1,1,3,3,NA,1,2,4,3,3,3,NA,NA,2,1,NA,NA,NA,NA,NA,2,3,1
+"Autoridad/Directivo","Facultad de Ciencias",18,4,4,2,4,3,3,4,5,1,2,2,3,5,1,NA,NA,NA,NA,NA,3,3,1
+"Autoridad/Directivo","Facultad de Ingeniería Eléctrica y Electrónica",8,1,1,3,5,3,2,5,2,3,3,1,1,3,1,NA,NA,NA,NA,NA,5,3,3
+"Autoridad/Directivo","Facultad de Ingeniería Civil y Ambiental",14,3,3,4,4,1,2,2,3,2,3,3,5,1,0,NA,NA,NA,NA,NA,4,5,4
+"Autoridad/Directivo","Facultad de Geología y Petróleos",8,4,4,3,2,2,1,3,3,2,5,NA,4,1,0,NA,NA,NA,NA,NA,4,2,2
+"Autoridad/Directivo","Facultad de Ingeniería de Sistemas",5,4,NA,4,5,0,NA,3,4,4,3,NA,3,5,NA,NA,NA,NA,NA,NA,1,4,4
+"Docente","Facultad de Ingeniería Civil y Ambiental",4,4,5,1,4,3,NA,4,2,3,NA,3,1,2,0,NA,NA,NA,NA,NA,NA,2,2
+"Docente","Facultad de Ingeniería Civil y Ambiental",1,3,2,2,3,0,2,3,3,3,5,3,2,2,0,NA,NA,NA,NA,NA,5,5,2
+"Docente","Facultad de Ciencias",17,2,3,3,4,2,1,4,1,3,4,3,1,1,1,NA,NA,NA,NA,NA,NA,NA,3
+"Docente","Facultad de Ingeniería Mecánica",0,3,3,5,5,3,1,1,3,1,3,NA,NA,NA,0,NA,NA,NA,NA,NA,3,5,3
+"Docente","Facultad de Ciencias",10,4,5,2,2,0,3,1,1,4,4,3,1,2,NA,NA,NA,NA,NA,NA,5,1,3
+"Docente","Facultad de Ciencias",13,4,3,1,NA,0,4,3,3,4,NA,2,4,2,NA,NA,NA,NA,NA,NA,3,2,1
+"Docente","Facultad de Ingeniería de Sistemas",9,3,2,4,3,0,NA,5,3,4,2,NA,3,3,0,NA,NA,NA,NA,NA,3,3,4
+"Docente","Facultad de Ingeniería Civil y Ambiental",3,5,4,1,4,0,1,3,3,4,2,1,3,5,0,NA,NA,NA,NA,NA,NA,3,4
+"Docente","Facultad de Geología y Petróleos",14,4,4,4,5,3,2,1,3,1,3,3,5,2,0,NA,NA,NA,NA,NA,3,3,2
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",9,4,4,NA,3,3,1,3,1,1,3,NA,4,1,0,NA,NA,NA,NA,NA,NA,3,4
+"Docente","Facultad de Ciencias Administrativas",2,3,4,4,NA,2,4,4,1,4,3,2,4,1,1,NA,NA,NA,NA,NA,4,3,1
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",0,2,NA,5,4,NA,2,2,4,2,1,3,3,4,0,NA,NA,NA,NA,NA,5,4,4
+"Docente","Facultad de Ciencias",21,4,5,NA,3,0,1,3,5,4,3,NA,1,NA,0,NA,NA,NA,NA,NA,2,3,4
+"Docente","Facultad de Ingeniería Química y Agroindustria",4,1,2,1,5,1,4,3,3,2,3,NA,2,2,1,NA,NA,NA,NA,NA,2,3,1
+"Docente","Facultad de Ingeniería Civil y Ambiental",3,2,3,3,3,NA,3,3,3,2,5,3,3,2,0,NA,NA,NA,NA,NA,NA,3,4
+"Docente","Facultad de Ingeniería Mecánica",11,3,5,2,3,0,1,5,4,2,2,4,5,NA,0,NA,NA,NA,NA,NA,5,2,2
+"Docente","Facultad de Ingeniería Química y Agroindustria",10,3,5,NA,5,2,2,3,5,1,1,2,NA,4,0,NA,NA,NA,NA,NA,2,2,4
+"Docente","Facultad de Ciencias",0,2,1,1,3,3,4,1,4,3,NA,3,3,2,0,NA,NA,NA,NA,NA,4,2,4
+"Docente","Facultad de Ingeniería Civil y Ambiental",4,2,3,3,3,1,3,3,3,2,NA,3,4,NA,1,NA,NA,NA,NA,NA,3,2,4
+"Docente","Facultad de Ciencias Administrativas",7,2,3,3,3,0,4,4,2,3,1,3,5,NA,1,NA,NA,NA,NA,NA,4,5,3
+"Docente","Facultad de Ingeniería de Sistemas",15,2,4,NA,1,0,4,2,2,2,3,NA,NA,2,0,NA,NA,NA,NA,NA,2,4,2
+"Docente","Facultad de Ingeniería Mecánica",12,NA,1,4,3,2,4,2,4,3,2,4,4,3,NA,NA,NA,NA,NA,NA,2,4,4
+"Docente","Facultad de Ciencias Administrativas",5,1,2,2,2,NA,1,2,4,4,3,1,2,1,0,NA,NA,NA,NA,NA,4,4,4
+"Docente","Facultad de Geología y Petróleos",3,2,3,4,2,1,2,1,1,3,5,5,3,NA,0,NA,NA,NA,NA,NA,4,4,2
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",10,4,2,2,5,NA,4,1,5,3,3,4,1,1,NA,NA,NA,NA,NA,NA,NA,4,2
+"Docente","Facultad de Ingeniería de Sistemas",9,2,2,4,4,1,2,2,1,4,4,4,3,4,1,NA,NA,NA,NA,NA,3,1,4
+"Docente","Facultad de Ciencias Administrativas",12,4,2,5,2,1,3,3,5,4,2,2,4,1,0,NA,NA,NA,NA,NA,4,NA,1
+"Docente","Facultad de Ciencias",6,4,3,3,NA,2,1,3,3,4,3,3,NA,3,NA,NA,NA,NA,NA,NA,4,2,3
+"Docente","Facultad de Ciencias",13,3,3,4,NA,3,2,4,5,2,NA,4,3,2,1,NA,NA,NA,NA,NA,3,3,1
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",3,3,3,1,5,2,2,4,4,1,4,2,NA,1,1,NA,NA,NA,NA,NA,NA,3,4
+"Docente","Facultad de Ciencias Administrativas",6,1,2,4,1,NA,1,2,4,2,1,3,3,3,0,NA,NA,NA,NA,NA,5,NA,1
+"Docente","Facultad de Ingeniería Civil y Ambiental",12,2,1,1,1,2,NA,5,2,3,3,5,4,2,0,NA,NA,NA,NA,NA,4,3,4
+"Docente","Facultad de Ingeniería Mecánica",14,NA,4,4,NA,2,2,5,5,1,4,4,4,5,1,NA,NA,NA,NA,NA,4,1,2
+"Docente","Facultad de Ingeniería de Sistemas",4,1,5,NA,2,2,4,5,1,2,3,NA,2,2,0,NA,NA,NA,NA,NA,2,2,2
+"Docente","Facultad de Ciencias Administrativas",9,3,3,NA,3,0,2,5,2,4,3,2,5,4,NA,NA,NA,NA,NA,NA,4,4,1
+"Docente","Facultad de Ingeniería de Sistemas",12,3,4,2,2,1,2,2,2,4,1,3,5,5,0,NA,NA,NA,NA,NA,4,NA,3
+"Docente","Facultad de Ingeniería Civil y Ambiental",1,4,5,5,5,1,2,3,3,2,NA,4,5,1,1,NA,NA,NA,NA,NA,5,5,1
+"Docente","Facultad de Geología y Petróleos",11,5,3,2,2,3,1,5,3,3,4,5,NA,1,1,NA,NA,NA,NA,NA,5,3,1
+"Docente","Facultad de Ingeniería Química y Agroindustria",3,5,3,3,NA,0,2,2,4,2,3,3,4,NA,0,NA,NA,NA,NA,NA,4,3,2
+"Docente","Facultad de Ciencias",14,NA,4,3,4,1,3,3,3,3,3,3,NA,3,0,NA,NA,NA,NA,NA,3,2,2
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",11,3,NA,1,3,1,2,2,5,1,4,2,2,2,1,NA,NA,NA,NA,NA,4,4,3
+"Docente","Facultad de Ingeniería de Sistemas",13,5,5,1,5,3,3,5,2,2,3,5,5,3,1,NA,NA,NA,NA,NA,5,NA,1
+"Docente","Facultad de Ingeniería de Sistemas",9,NA,3,NA,2,3,1,3,5,3,4,1,NA,NA,1,NA,NA,NA,NA,NA,2,3,2
+"Docente","Facultad de Geología y Petróleos",13,4,5,2,3,3,4,3,4,4,5,2,2,5,0,NA,NA,NA,NA,NA,4,2,3
+"Docente","Facultad de Ingeniería Mecánica",16,NA,NA,2,4,1,4,4,3,2,3,5,5,3,1,NA,NA,NA,NA,NA,2,5,2
+"Docente","Facultad de Ciencias Administrativas",20,4,3,NA,5,1,2,5,5,1,4,2,5,NA,0,NA,NA,NA,NA,NA,2,3,3
+"Docente","Facultad de Ingeniería de Sistemas",8,1,NA,2,4,0,4,2,4,4,4,5,2,5,0,NA,NA,NA,NA,NA,2,2,1
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",5,4,5,3,3,1,3,4,3,1,2,5,NA,NA,0,NA,NA,NA,NA,NA,2,4,4
+"Docente","Facultad de Ciencias",8,4,5,NA,NA,2,1,3,2,2,5,NA,1,5,1,NA,NA,NA,NA,NA,5,1,3
+"Docente","Facultad de Ciencias",9,5,3,2,4,3,3,3,4,2,3,1,NA,4,0,NA,NA,NA,NA,NA,1,2,2
+"Docente","Facultad de Ingeniería Civil y Ambiental",7,2,3,4,4,NA,3,3,5,2,5,4,3,NA,NA,NA,NA,NA,NA,NA,2,4,4
+"Docente","Facultad de Ciencias",11,1,NA,1,5,1,1,4,5,2,2,2,4,4,0,NA,NA,NA,NA,NA,NA,4,1
+"Docente","Facultad de Ingeniería Química y Agroindustria",14,3,3,1,3,0,4,4,1,3,1,5,NA,3,1,NA,NA,NA,NA,NA,NA,1,4
+"Docente","Facultad de Ingeniería de Sistemas",5,2,3,NA,4,1,4,3,3,1,5,3,4,4,NA,NA,NA,NA,NA,NA,5,3,2
+"Docente","Facultad de Ciencias Administrativas",6,3,2,4,3,1,2,4,5,1,3,NA,4,5,1,NA,NA,NA,NA,NA,1,1,1
+"Docente","Facultad de Ciencias",10,2,5,3,4,2,3,2,3,1,3,1,3,5,0,NA,NA,NA,NA,NA,NA,5,2
+"Docente","Facultad de Ciencias Administrativas",5,2,1,2,NA,0,3,3,4,4,3,3,4,5,1,NA,NA,NA,NA,NA,1,5,1
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",9,5,4,3,5,NA,2,2,3,3,5,2,3,2,0,NA,NA,NA,NA,NA,3,3,1
+"Docente","Facultad de Ingeniería Mecánica",4,5,2,3,3,0,1,1,4,3,5,5,3,5,1,NA,NA,NA,NA,NA,5,5,2
+"Docente","Facultad de Ciencias Administrativas",1,2,3,3,3,NA,3,2,1,3,5,2,4,4,0,NA,NA,NA,NA,NA,3,3,4
+"Docente","Facultad de Geología y Petróleos",0,3,1,3,4,2,2,3,3,4,2,2,1,NA,1,NA,NA,NA,NA,NA,2,2,4
+"Docente","Facultad de Ingeniería Mecánica",3,1,1,3,2,NA,3,3,4,4,2,3,NA,5,0,NA,NA,NA,NA,NA,2,4,3
+"Docente","Facultad de Ingeniería Química y Agroindustria",4,1,2,2,1,3,NA,2,4,2,4,5,2,NA,NA,NA,NA,NA,NA,NA,4,3,4
+"Docente","Facultad de Ingeniería Química y Agroindustria",10,4,4,3,3,3,1,1,5,1,NA,4,3,5,NA,NA,NA,NA,NA,NA,5,NA,3
+"Docente","Facultad de Ingeniería Civil y Ambiental",14,1,2,2,NA,1,3,3,3,1,3,2,3,5,0,NA,NA,NA,NA,NA,NA,NA,2
+"Docente","Facultad de Geología y Petróleos",4,4,5,3,1,1,3,3,2,3,3,3,3,4,1,NA,NA,NA,NA,NA,2,2,1
+"Docente","Facultad de Ingeniería Química y Agroindustria",2,3,1,4,5,3,2,5,5,1,4,5,3,4,1,NA,NA,NA,NA,NA,3,5,1
+"Docente","Facultad de Ingeniería Química y Agroindustria",2,3,4,3,4,2,1,3,4,1,5,3,5,4,0,NA,NA,NA,NA,NA,2,5,3
+"Docente","Facultad de Ciencias Administrativas",6,4,5,5,5,1,4,1,1,4,NA,5,2,2,1,NA,NA,NA,NA,NA,5,2,4
+"Docente","Facultad de Ciencias Administrativas",7,1,5,NA,5,NA,1,3,5,2,1,4,1,1,1,NA,NA,NA,NA,NA,4,5,3
+"Docente","Facultad de Geología y Petróleos",11,3,3,3,5,3,1,3,5,1,2,1,2,2,0,NA,NA,NA,NA,NA,4,NA,4
+"Docente","Facultad de Ciencias",6,1,NA,NA,2,NA,NA,3,5,3,NA,1,5,2,NA,NA,NA,NA,NA,NA,4,2,1
+"Docente","Facultad de Ingeniería Química y Agroindustria",4,2,3,1,3,0,1,3,1,3,NA,1,5,3,0,NA,NA,NA,NA,NA,3,2,4
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",7,NA,NA,1,NA,0,1,3,4,1,3,5,2,2,1,NA,NA,NA,NA,NA,4,1,2
+"Docente","Facultad de Ciencias",15,5,5,3,2,2,4,3,4,1,2,4,NA,4,1,NA,NA,NA,NA,NA,3,2,1
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",15,1,2,5,3,2,1,3,2,2,NA,NA,2,4,1,NA,NA,NA,NA,NA,3,2,2
+"Docente","Facultad de Ingeniería Mecánica",3,5,1,4,3,1,4,1,4,1,3,1,3,5,1,NA,NA,NA,NA,NA,4,2,1
+"Docente","Facultad de Ingeniería de Sistemas",1,NA,5,2,4,1,2,3,1,3,2,3,5,NA,1,NA,NA,NA,NA,NA,4,3,1
+"Docente","Facultad de Ingeniería de Sistemas",23,3,3,NA,2,3,1,4,3,4,2,5,2,3,1,NA,NA,NA,NA,NA,4,5,2
+"Docente","Facultad de Ingeniería Química y Agroindustria",7,NA,NA,3,4,2,NA,3,5,3,3,4,1,2,NA,NA,NA,NA,NA,NA,NA,2,4
+"Docente","Facultad de Ciencias Administrativas",7,2,2,3,NA,0,1,4,5,3,3,4,2,3,0,NA,NA,NA,NA,NA,5,1,2
+"Docente","Facultad de Ingeniería Civil y Ambiental",11,NA,5,2,3,3,3,5,2,1,3,3,5,4,0,NA,NA,NA,NA,NA,5,4,3
+"Docente","Facultad de Ciencias",2,3,NA,3,4,3,2,4,4,4,5,5,4,4,1,NA,NA,NA,NA,NA,3,3,4
+"Docente","Facultad de Ingeniería Mecánica",4,3,3,2,1,2,NA,3,5,4,3,4,4,3,1,NA,NA,NA,NA,NA,2,3,4
+"Docente","Facultad de Ingeniería Química y Agroindustria",1,4,3,2,5,3,4,3,4,3,2,NA,3,NA,0,NA,NA,NA,NA,NA,NA,3,3
+"Docente","Facultad de Ciencias",4,5,4,1,3,3,4,3,4,3,5,1,1,1,0,NA,NA,NA,NA,NA,NA,2,3
+"Docente","Facultad de Geología y Petróleos",9,3,3,2,5,0,2,3,4,4,1,5,1,5,0,NA,NA,NA,NA,NA,2,5,4
+"Docente","Facultad de Ingeniería Química y Agroindustria",0,3,3,4,2,NA,4,4,3,1,4,3,1,2,0,NA,NA,NA,NA,NA,3,1,3
+"Docente","Facultad de Ciencias",12,3,3,4,4,1,2,5,4,1,5,5,2,3,0,NA,NA,NA,NA,NA,4,4,3
+"Docente","Facultad de Ciencias Administrativas",10,3,5,5,3,0,2,4,2,3,5,5,2,4,1,NA,NA,NA,NA,NA,4,3,1
+"Docente","Facultad de Ingeniería Civil y Ambiental",3,1,3,4,3,2,1,4,5,4,NA,1,NA,3,NA,NA,NA,NA,NA,NA,2,3,4
+"Docente","Facultad de Geología y Petróleos",9,3,3,2,3,0,3,2,2,3,3,NA,4,1,0,NA,NA,NA,NA,NA,5,2,4
+"Docente","Facultad de Geología y Petróleos",12,1,2,2,3,0,3,3,4,3,3,2,4,2,0,NA,NA,NA,NA,NA,3,3,1
+"Docente","Facultad de Ingeniería Química y Agroindustria",14,5,1,3,2,NA,1,3,2,4,3,3,4,3,1,NA,NA,NA,NA,NA,NA,NA,3
+"Docente","Facultad de Ingeniería Mecánica",7,2,2,1,5,2,3,3,4,3,3,3,4,4,0,NA,NA,NA,NA,NA,4,4,3
+"Docente","Facultad de Ciencias Administrativas",7,2,5,4,3,1,2,5,5,3,1,4,5,1,1,NA,NA,NA,NA,NA,2,1,4
+"Docente","Facultad de Ciencias",7,5,3,3,2,3,4,5,4,2,3,3,3,2,0,NA,NA,NA,NA,NA,4,2,2
+"Docente","Facultad de Ingeniería Química y Agroindustria",17,2,2,1,NA,2,1,3,2,2,2,NA,4,5,0,NA,NA,NA,NA,NA,4,1,2
+"Docente","Facultad de Ingeniería Química y Agroindustria",15,2,4,2,4,3,1,3,5,1,3,3,NA,1,0,NA,NA,NA,NA,NA,3,3,2
+"Docente","Facultad de Geología y Petróleos",13,3,1,2,5,NA,4,1,5,1,3,3,3,2,1,NA,NA,NA,NA,NA,3,1,2
+"Docente","Facultad de Ingeniería Civil y Ambiental",6,1,2,5,1,0,4,4,3,2,4,NA,NA,NA,0,NA,NA,NA,NA,NA,4,3,1
+"Docente","Facultad de Ingeniería Química y Agroindustria",10,4,2,1,4,1,1,4,5,1,NA,3,3,5,1,NA,NA,NA,NA,NA,1,1,4
+"Docente","Facultad de Ingeniería de Sistemas",10,5,2,4,3,2,4,5,5,1,5,3,3,2,1,NA,NA,NA,NA,NA,4,4,1
+"Docente","Facultad de Geología y Petróleos",2,3,5,5,NA,2,2,2,4,3,NA,2,NA,3,1,NA,NA,NA,NA,NA,2,5,2
+"Docente","Facultad de Ciencias Administrativas",2,4,3,1,5,2,2,3,5,4,5,5,3,1,1,NA,NA,NA,NA,NA,1,3,4
+"Docente","Facultad de Ingeniería Civil y Ambiental",12,1,5,1,4,2,2,3,2,2,4,5,1,2,0,NA,NA,NA,NA,NA,1,5,2
+"Docente","Facultad de Ciencias Administrativas",1,3,4,1,3,1,4,3,5,3,NA,NA,1,4,0,NA,NA,NA,NA,NA,4,5,2
+"Docente","Facultad de Ingeniería Química y Agroindustria",8,4,4,2,2,1,4,5,4,1,2,5,2,3,NA,NA,NA,NA,NA,NA,4,4,4
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",10,1,2,4,5,1,3,1,1,1,2,1,NA,3,1,NA,NA,NA,NA,NA,1,5,2
+"Docente","Facultad de Ciencias Administrativas",11,3,3,2,3,1,4,3,5,2,4,2,4,4,0,NA,NA,NA,NA,NA,NA,4,3
+"Docente","Facultad de Ingeniería de Sistemas",9,2,2,3,4,0,4,2,3,3,1,3,4,3,0,NA,NA,NA,NA,NA,3,2,4
+"Docente","Facultad de Ingeniería de Sistemas",4,1,NA,4,4,2,NA,3,5,2,3,5,NA,2,1,NA,NA,NA,NA,NA,3,3,3
+"Docente","Facultad de Geología y Petróleos",14,3,3,3,4,0,1,1,2,2,2,2,3,3,0,NA,NA,NA,NA,NA,1,4,4
+"Docente","Facultad de Ingeniería Civil y Ambiental",18,NA,3,4,3,2,2,4,5,1,2,4,4,2,1,NA,NA,NA,NA,NA,3,2,2
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",13,2,2,1,5,2,4,2,3,3,5,4,5,5,1,NA,NA,NA,NA,NA,3,4,2
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",4,3,2,4,1,2,4,3,5,4,NA,2,4,1,0,NA,NA,NA,NA,NA,3,4,4
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",16,2,3,1,5,1,2,4,3,3,2,3,2,3,1,NA,NA,NA,NA,NA,3,NA,4
+"Docente","Facultad de Ingeniería Mecánica",8,3,5,1,4,0,NA,3,5,2,NA,4,3,1,0,NA,NA,NA,NA,NA,5,4,3
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",11,1,3,1,3,0,NA,4,3,4,2,4,5,2,0,NA,NA,NA,NA,NA,3,4,4
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",12,4,2,2,4,0,4,1,5,2,2,1,5,3,1,NA,NA,NA,NA,NA,3,2,1
+"Docente","Facultad de Ingeniería Química y Agroindustria",7,3,5,1,4,NA,NA,3,4,1,2,NA,2,3,0,NA,NA,NA,NA,NA,1,1,3
+"Docente","Facultad de Ciencias Administrativas",8,3,3,2,5,1,4,1,3,3,4,3,4,NA,NA,NA,NA,NA,NA,NA,3,4,3
+"Docente","Facultad de Ingeniería Mecánica",14,NA,3,3,1,0,NA,3,4,2,1,NA,3,1,0,NA,NA,NA,NA,NA,2,3,4
+"Docente","Facultad de Ingeniería Mecánica",12,1,NA,1,2,2,4,3,1,3,3,3,4,4,0,NA,NA,NA,NA,NA,1,1,1
+"Docente","Facultad de Ingeniería Química y Agroindustria",14,1,1,2,4,3,2,1,4,4,4,5,2,NA,1,NA,NA,NA,NA,NA,4,5,4
+"Docente","Facultad de Ciencias",22,3,5,4,5,1,1,1,3,3,3,2,3,5,1,NA,NA,NA,NA,NA,2,3,1
+"Docente","Facultad de Ingeniería Química y Agroindustria",12,1,3,3,2,2,3,2,1,4,5,4,2,3,0,NA,NA,NA,NA,NA,2,1,4
+"Docente","Facultad de Ingeniería Química y Agroindustria",9,3,1,NA,1,0,4,3,4,4,2,2,3,5,0,NA,NA,NA,NA,NA,2,3,1
+"Docente","Facultad de Ingeniería Química y Agroindustria",5,1,5,2,1,3,NA,1,4,4,3,4,3,5,1,NA,NA,NA,NA,NA,4,5,4
+"Docente","Facultad de Ingeniería Civil y Ambiental",24,3,1,5,3,1,3,1,4,2,NA,5,5,3,0,NA,NA,NA,NA,NA,4,3,3
+"Docente","Facultad de Geología y Petróleos",5,1,3,4,3,0,4,3,4,1,5,3,5,NA,NA,NA,NA,NA,NA,NA,3,NA,3
+"Docente","Facultad de Ingeniería Química y Agroindustria",22,3,3,2,5,1,2,2,2,2,3,4,3,4,0,NA,NA,NA,NA,NA,3,4,2
+"Docente","Facultad de Ingeniería Civil y Ambiental",10,NA,4,2,1,0,4,5,2,1,4,2,NA,NA,0,NA,NA,NA,NA,NA,3,NA,2
+"Docente","Facultad de Ingeniería Química y Agroindustria",17,5,2,NA,3,0,1,3,5,2,3,1,3,3,0,NA,NA,NA,NA,NA,2,5,3
+"Docente","Facultad de Ciencias Administrativas",7,3,5,1,3,2,1,2,2,3,1,5,4,2,0,NA,NA,NA,NA,NA,4,3,1
+"Docente","Facultad de Geología y Petróleos",11,3,NA,4,3,0,2,1,2,3,2,2,5,2,0,NA,NA,NA,NA,NA,2,1,3
+"Docente","Facultad de Ciencias",9,5,1,NA,NA,2,4,2,3,3,3,3,3,5,1,NA,NA,NA,NA,NA,4,NA,4
+"Docente","Facultad de Ciencias Administrativas",7,2,5,5,3,0,2,2,5,1,1,NA,NA,2,0,NA,NA,NA,NA,NA,4,5,4
+"Docente","Facultad de Ingeniería Civil y Ambiental",7,1,1,4,2,0,4,3,2,4,1,3,5,5,1,NA,NA,NA,NA,NA,4,4,1
+"Docente","Facultad de Ciencias Administrativas",14,2,1,1,5,0,2,4,5,2,3,1,3,NA,NA,NA,NA,NA,NA,NA,3,4,4
+"Docente","Facultad de Ingeniería de Sistemas",7,1,2,4,NA,0,1,2,5,4,1,NA,2,2,0,NA,NA,NA,NA,NA,3,NA,4
+"Docente","Facultad de Ciencias Administrativas",4,NA,3,3,3,NA,2,5,5,2,NA,5,2,5,0,NA,NA,NA,NA,NA,3,3,2
+"Docente","Facultad de Ciencias Administrativas",7,NA,3,3,1,3,2,4,4,3,3,1,NA,4,1,NA,NA,NA,NA,NA,3,5,2
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",11,4,3,NA,4,NA,1,4,4,3,2,4,5,3,0,NA,NA,NA,NA,NA,1,3,2
+"Docente","Facultad de Ingeniería Química y Agroindustria",12,4,2,2,NA,1,2,3,2,2,3,1,2,2,1,NA,NA,NA,NA,NA,3,NA,1
+"Docente","Facultad de Ingeniería Química y Agroindustria",12,3,5,3,2,0,1,2,4,3,3,4,5,NA,0,NA,NA,NA,NA,NA,5,1,4
+"Docente","Facultad de Ciencias Administrativas",2,5,1,5,5,2,1,3,4,2,3,1,2,NA,1,NA,NA,NA,NA,NA,1,4,3
+"Docente","Facultad de Geología y Petróleos",10,3,3,3,4,0,2,3,1,2,2,3,1,NA,NA,NA,NA,NA,NA,NA,4,1,2
+"Docente","Facultad de Ciencias Administrativas",14,2,5,1,3,3,1,4,4,1,3,3,2,5,1,NA,NA,NA,NA,NA,3,2,3
+"Docente","Facultad de Ingeniería Civil y Ambiental",16,1,1,4,NA,1,NA,3,3,3,4,NA,4,5,1,NA,NA,NA,NA,NA,2,2,1
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",7,2,2,4,4,3,1,2,1,1,3,5,NA,2,1,NA,NA,NA,NA,NA,NA,4,4
+"Docente","Facultad de Ingeniería de Sistemas",6,1,5,1,NA,2,4,5,4,1,2,3,2,NA,1,NA,NA,NA,NA,NA,3,5,3
+"Docente","Facultad de Ingeniería Química y Agroindustria",17,5,4,3,3,0,3,4,2,4,4,2,1,5,0,NA,NA,NA,NA,NA,5,2,4
+"Docente","Facultad de Geología y Petróleos",2,1,NA,1,1,1,2,2,1,1,4,4,5,5,NA,NA,NA,NA,NA,NA,4,3,4
+"Docente","Facultad de Geología y Petróleos",5,3,2,5,2,3,2,2,3,1,3,1,1,1,1,NA,NA,NA,NA,NA,4,1,3
+"Docente","Facultad de Geología y Petróleos",11,1,4,5,2,2,1,2,2,2,3,1,1,4,1,NA,NA,NA,NA,NA,5,1,3
+"Docente","Facultad de Ingeniería de Sistemas",2,4,5,1,2,3,2,1,3,3,3,4,3,4,0,NA,NA,NA,NA,NA,NA,3,1
+"Docente","Facultad de Ciencias Administrativas",10,3,4,2,5,0,3,4,2,3,3,3,4,2,NA,NA,NA,NA,NA,NA,NA,2,4
+"Docente","Facultad de Ingeniería Civil y Ambiental",19,5,1,5,2,1,4,4,1,1,NA,3,4,2,1,NA,NA,NA,NA,NA,NA,1,4
+"Docente","Facultad de Ingeniería Mecánica",8,1,NA,4,4,1,1,5,2,2,2,4,5,4,1,NA,NA,NA,NA,NA,4,1,1
+"Docente","Facultad de Ingeniería Mecánica",6,1,2,2,2,2,1,2,5,3,3,4,4,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"Docente","Facultad de Ingeniería Química y Agroindustria",11,3,2,2,4,0,3,5,3,2,1,3,4,2,1,NA,NA,NA,NA,NA,2,NA,3
+"Docente","Facultad de Ingeniería Mecánica",6,NA,5,3,5,2,4,5,5,2,3,2,2,4,1,NA,NA,NA,NA,NA,1,3,4
+"Docente","Facultad de Ingeniería de Sistemas",13,5,3,4,3,0,1,2,4,1,3,1,1,1,1,NA,NA,NA,NA,NA,5,1,1
+"Docente","Facultad de Ingeniería Civil y Ambiental",13,1,4,NA,2,0,3,1,3,1,4,2,4,4,1,NA,NA,NA,NA,NA,4,5,1
+"Docente","Facultad de Ciencias",8,3,3,1,4,1,2,3,3,3,3,2,1,4,1,NA,NA,NA,NA,NA,2,1,1
+"Docente","Facultad de Ciencias Administrativas",1,3,5,3,4,3,3,5,2,4,3,3,4,4,1,NA,NA,NA,NA,NA,NA,2,3
+"Docente","Facultad de Ingeniería Química y Agroindustria",0,5,4,1,2,2,2,4,3,1,2,3,2,2,1,NA,NA,NA,NA,NA,4,4,4
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",4,3,3,3,3,0,NA,1,3,2,4,5,2,4,1,NA,NA,NA,NA,NA,2,1,1
+"Docente","Facultad de Ciencias",13,3,5,3,NA,0,3,2,3,3,NA,1,3,2,1,NA,NA,NA,NA,NA,3,4,1
+"Docente","Facultad de Ciencias Administrativas",4,1,4,2,2,0,3,3,1,2,4,5,2,3,0,NA,NA,NA,NA,NA,2,NA,2
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",3,3,1,5,2,NA,NA,5,2,2,3,1,4,3,0,NA,NA,NA,NA,NA,3,3,3
+"Docente","Facultad de Geología y Petróleos",4,1,3,1,2,NA,1,4,2,4,1,2,5,5,NA,NA,NA,NA,NA,NA,NA,4,4
+"Docente","Facultad de Ingeniería de Sistemas",10,3,3,1,3,0,1,5,4,3,2,5,5,4,1,NA,NA,NA,NA,NA,2,5,4
+"Docente","Facultad de Ingeniería Civil y Ambiental",3,NA,NA,4,5,0,1,2,5,4,NA,1,4,5,0,NA,NA,NA,NA,NA,5,1,3
+"Docente","Facultad de Geología y Petróleos",13,3,5,NA,NA,2,4,3,5,2,2,5,1,3,0,NA,NA,NA,NA,NA,4,4,3
+"Docente","Facultad de Ingeniería Mecánica",10,5,4,5,4,3,4,5,4,2,1,4,3,5,1,NA,NA,NA,NA,NA,1,2,3
+"Docente","Facultad de Ciencias Administrativas",7,4,3,2,NA,3,3,1,2,2,NA,2,3,4,0,NA,NA,NA,NA,NA,2,3,2
+"Docente","Facultad de Ciencias Administrativas",13,3,3,3,3,1,3,4,4,2,1,1,NA,3,1,NA,NA,NA,NA,NA,2,2,4
+"Docente","Facultad de Ingeniería Mecánica",10,2,1,1,5,2,2,5,4,3,NA,1,5,3,0,NA,NA,NA,NA,NA,3,3,1
+"Docente","Facultad de Ciencias",5,2,3,3,5,3,NA,5,2,2,3,4,4,4,NA,NA,NA,NA,NA,NA,5,NA,1
+"Docente","Facultad de Geología y Petróleos",9,1,4,5,3,NA,3,4,3,1,NA,2,4,2,1,NA,NA,NA,NA,NA,2,2,1
+"Docente","Facultad de Ingeniería Química y Agroindustria",12,2,2,4,1,1,4,1,4,2,3,3,5,4,1,NA,NA,NA,NA,NA,NA,NA,3
+"Docente","Facultad de Ingeniería Química y Agroindustria",10,1,1,4,4,1,3,2,3,1,1,NA,1,1,0,NA,NA,NA,NA,NA,5,2,3
+"Docente","Facultad de Ingeniería Mecánica",4,NA,4,4,4,3,3,3,4,3,5,3,3,3,0,NA,NA,NA,NA,NA,5,5,4
+"Docente","Facultad de Ciencias",13,5,3,4,2,2,2,3,5,3,2,1,5,2,1,NA,NA,NA,NA,NA,4,1,3
+"Docente","Facultad de Geología y Petróleos",15,5,4,4,4,3,3,5,2,1,2,3,2,5,NA,NA,NA,NA,NA,NA,5,1,4
+"Docente","Facultad de Geología y Petróleos",10,2,4,NA,3,0,4,2,3,4,1,1,4,NA,0,NA,NA,NA,NA,NA,3,NA,2
+"Docente","Facultad de Ingeniería Química y Agroindustria",9,1,2,2,3,2,4,3,3,3,3,5,4,2,0,NA,NA,NA,NA,NA,5,4,1
+"Docente","Facultad de Ingeniería Civil y Ambiental",8,4,4,4,3,NA,3,3,5,3,NA,5,3,1,0,NA,NA,NA,NA,NA,4,5,1
+"Docente","Facultad de Geología y Petróleos",21,2,2,3,3,3,1,3,2,4,5,3,NA,5,0,NA,NA,NA,NA,NA,2,4,3
+"Docente","Facultad de Ingeniería Mecánica",10,2,1,NA,4,1,1,5,1,4,NA,3,4,5,1,NA,NA,NA,NA,NA,3,3,2
+"Docente","Facultad de Geología y Petróleos",7,2,3,5,4,2,4,1,4,2,2,1,4,4,1,NA,NA,NA,NA,NA,1,3,4
+"Docente","Facultad de Ingeniería Civil y Ambiental",7,5,2,3,3,2,4,2,5,1,3,5,2,5,1,NA,NA,NA,NA,NA,1,4,4
+"Docente","Facultad de Ingeniería de Sistemas",1,NA,5,5,5,0,2,2,3,2,1,3,NA,3,1,NA,NA,NA,NA,NA,5,2,4
+"Docente","Facultad de Ingeniería Mecánica",8,NA,1,4,1,1,1,3,5,3,1,2,2,5,0,NA,NA,NA,NA,NA,3,5,2
+"Docente","Facultad de Ingeniería Mecánica",9,NA,4,2,5,NA,2,4,3,2,NA,2,3,5,1,NA,NA,NA,NA,NA,1,3,3
+"Docente","Facultad de Ingeniería Mecánica",10,3,2,5,4,2,3,3,2,3,NA,1,2,3,1,NA,NA,NA,NA,NA,4,1,2
+"Docente","Facultad de Ingeniería Química y Agroindustria",13,3,4,1,3,1,4,3,5,4,3,NA,5,1,NA,NA,NA,NA,NA,NA,3,3,2
+"Docente","Facultad de Ciencias",7,5,2,NA,1,1,2,4,2,3,2,1,4,3,0,NA,NA,NA,NA,NA,4,1,2
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",15,4,NA,1,2,0,4,2,4,3,5,5,1,4,NA,NA,NA,NA,NA,NA,3,4,2
+"Docente","Facultad de Ingeniería Civil y Ambiental",2,3,4,1,3,2,4,3,2,2,5,2,2,1,1,NA,NA,NA,NA,NA,5,3,1
+"Docente","Facultad de Ingeniería Mecánica",1,3,3,3,5,2,3,3,3,3,4,NA,4,3,0,NA,NA,NA,NA,NA,2,5,1
+"Docente","Facultad de Ingeniería Civil y Ambiental",1,4,3,5,2,1,1,3,5,4,2,5,3,3,0,NA,NA,NA,NA,NA,1,1,4
+"Docente","Facultad de Ciencias",12,3,3,5,3,3,3,5,1,1,3,3,NA,2,0,NA,NA,NA,NA,NA,3,3,2
+"Docente","Facultad de Ciencias Administrativas",8,NA,2,2,5,1,3,3,4,1,3,1,2,1,0,NA,NA,NA,NA,NA,4,5,2
+"Docente","Facultad de Geología y Petróleos",13,1,2,5,4,0,4,3,5,4,5,3,4,1,1,NA,NA,NA,NA,NA,3,3,1
+"Docente","Facultad de Ingeniería Química y Agroindustria",6,2,1,3,5,2,NA,4,5,4,2,1,1,4,0,NA,NA,NA,NA,NA,2,5,3
+"Docente","Facultad de Ingeniería de Sistemas",4,1,2,4,3,NA,1,2,3,3,3,3,4,3,1,NA,NA,NA,NA,NA,3,4,1
+"Docente","Facultad de Ingeniería de Sistemas",6,5,1,2,3,3,3,1,3,3,3,4,1,3,1,NA,NA,NA,NA,NA,5,3,1
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",3,3,2,4,1,2,2,2,4,4,2,NA,NA,2,0,NA,NA,NA,NA,NA,4,2,4
+"Docente","Facultad de Ingeniería Civil y Ambiental",1,4,1,2,4,2,1,4,3,2,2,3,2,5,1,NA,NA,NA,NA,NA,4,4,1
+"Docente","Facultad de Ingeniería de Sistemas",1,NA,2,NA,4,1,2,4,5,2,5,4,5,4,0,NA,NA,NA,NA,NA,5,1,2
+"Docente","Facultad de Ingeniería Química y Agroindustria",14,5,2,2,3,2,2,3,2,2,2,5,5,2,0,NA,NA,NA,NA,NA,4,4,1
+"Docente","Facultad de Ingeniería Química y Agroindustria",4,2,3,5,2,0,2,2,3,3,5,3,2,2,0,NA,NA,NA,NA,NA,4,4,2
+"Docente","Facultad de Ciencias",13,4,4,2,NA,0,1,3,5,2,4,5,5,NA,NA,NA,NA,NA,NA,NA,4,2,3
+"Docente","Facultad de Geología y Petróleos",17,4,3,4,5,3,NA,3,1,4,4,3,1,NA,1,NA,NA,NA,NA,NA,3,NA,1
+"Docente","Facultad de Ingeniería Mecánica",7,3,4,2,3,1,NA,3,3,4,3,3,2,3,0,NA,NA,NA,NA,NA,3,1,1
+"Docente","Facultad de Geología y Petróleos",10,1,3,5,2,2,1,4,5,1,NA,NA,2,NA,1,NA,NA,NA,NA,NA,4,4,1
+"Docente","Facultad de Ingeniería Eléctrica y Electrónica",3,3,NA,2,4,2,2,1,3,2,NA,3,1,5,0,NA,NA,NA,NA,NA,2,5,2
+"Docente","Facultad de Ingeniería Mecánica",3,4,2,2,5,1,1,5,4,2,1,4,4,2,1,NA,NA,NA,NA,NA,5,3,4
+"Docente","Facultad de Ingeniería de Sistemas",8,2,4,2,2,2,2,2,3,1,2,5,3,5,NA,NA,NA,NA,NA,NA,5,4,4
+"Docente","Facultad de Ingeniería de Sistemas",10,3,NA,NA,4,0,1,1,3,4,3,1,3,2,1,NA,NA,NA,NA,NA,NA,5,4
+"Docente","Facultad de Ingeniería Química y Agroindustria",3,1,3,4,5,NA,NA,1,4,3,3,2,2,4,0,NA,NA,NA,NA,NA,2,5,1
+"Docente","Facultad de Ingeniería de Sistemas",24,2,NA,5,3,1,2,3,4,3,4,5,5,NA,0,NA,NA,NA,NA,NA,4,3,2
+"Docente","Facultad de Geología y Petróleos",5,3,3,NA,1,3,4,1,2,4,1,3,2,5,0,NA,NA,NA,NA,NA,1,NA,4
+"Docente","Facultad de Ciencias Administrativas",8,5,3,NA,3,1,1,1,3,3,NA,4,5,NA,0,NA,NA,NA,NA,NA,5,4,2
+"Docente","Facultad de Ingeniería de Sistemas",12,4,5,1,4,2,NA,1,4,2,2,4,3,3,1,NA,NA,NA,NA,NA,1,4,2
+"Docente","Facultad de Ciencias",8,3,2,2,4,3,3,3,3,4,3,3,4,3,0,NA,NA,NA,NA,NA,5,5,1
+"Docente","Facultad de Geología y Petróleos",4,2,3,5,1,3,1,3,4,1,3,5,3,2,1,NA,NA,NA,NA,NA,5,3,2
+"Administrativo/Tecnico","Facultad de Geología y Petróleos",14,1,5,1,2,2,3,2,5,4,3,2,3,3,1,NA,NA,NA,NA,NA,NA,4,3
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",18,3,2,3,NA,3,2,3,3,4,1,4,3,3,0,NA,NA,NA,NA,NA,5,NA,1
+"Administrativo/Tecnico","Facultad de Ciencias",8,3,3,2,2,1,4,3,4,2,3,3,3,4,0,NA,NA,NA,NA,NA,NA,5,3
+"Administrativo/Tecnico","Facultad de Geología y Petróleos",11,5,3,4,NA,2,3,4,5,1,3,2,3,3,0,NA,NA,NA,NA,NA,5,5,4
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",7,NA,1,4,5,1,2,1,5,4,3,NA,4,3,1,NA,NA,NA,NA,NA,3,5,4
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",14,2,4,1,NA,1,2,3,2,3,4,3,2,3,0,NA,NA,NA,NA,NA,NA,3,3
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",1,2,4,NA,3,2,1,4,2,1,4,5,3,5,0,NA,NA,NA,NA,NA,2,2,2
+"Administrativo/Tecnico","Facultad de Ciencias",22,1,4,1,3,NA,2,5,5,3,1,4,5,2,NA,NA,NA,NA,NA,NA,5,3,2
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",4,1,2,3,5,NA,4,2,2,1,2,4,3,1,NA,NA,NA,NA,NA,NA,4,4,2
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",1,NA,4,4,4,0,1,4,3,2,5,2,2,3,1,NA,NA,NA,NA,NA,3,3,4
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",6,4,1,3,3,NA,4,4,1,1,3,1,1,4,0,NA,NA,NA,NA,NA,2,3,2
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",9,3,3,3,5,3,2,4,1,4,4,4,5,3,0,NA,NA,NA,NA,NA,2,4,4
+"Administrativo/Tecnico","Facultad de Ingeniería Mecánica",18,4,3,1,2,NA,2,1,3,4,3,5,5,2,0,NA,NA,NA,NA,NA,3,3,3
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",13,3,NA,2,3,2,3,2,2,3,4,5,4,3,1,NA,NA,NA,NA,NA,4,1,4
+"Administrativo/Tecnico","Facultad de Geología y Petróleos",9,5,2,2,3,0,1,3,3,2,3,3,1,2,0,NA,NA,NA,NA,NA,3,4,3
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",0,3,1,NA,3,0,2,5,4,2,2,5,5,1,1,NA,NA,NA,NA,NA,NA,2,3
+"Administrativo/Tecnico","Facultad de Ingeniería Química y Agroindustria",3,3,NA,3,3,0,3,4,3,1,1,3,5,3,0,NA,NA,NA,NA,NA,NA,3,4
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",7,5,NA,3,5,0,1,5,4,2,5,3,1,4,1,NA,NA,NA,NA,NA,4,5,3
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",23,2,NA,3,4,1,2,4,2,1,4,5,2,1,1,NA,NA,NA,NA,NA,3,5,3
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",3,4,4,3,3,0,1,1,4,1,4,5,5,4,0,NA,NA,NA,NA,NA,4,NA,4
+"Administrativo/Tecnico","Facultad de Ciencias",15,1,2,2,4,0,2,4,4,3,1,3,3,2,0,NA,NA,NA,NA,NA,3,3,4
+"Administrativo/Tecnico","Facultad de Ciencias",5,NA,NA,NA,2,2,3,2,3,4,3,2,3,1,1,NA,NA,NA,NA,NA,2,2,2
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",18,5,NA,3,1,2,2,1,5,2,2,5,5,2,1,NA,NA,NA,NA,NA,NA,5,3
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",1,4,4,NA,2,1,3,3,3,4,3,NA,3,3,1,NA,NA,NA,NA,NA,3,3,1
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",9,3,1,3,4,NA,2,4,2,2,1,3,3,1,0,NA,NA,NA,NA,NA,2,3,3
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",1,5,4,5,5,2,1,4,3,1,5,3,1,4,1,NA,NA,NA,NA,NA,4,1,1
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",13,5,4,3,NA,2,NA,2,1,3,NA,NA,1,1,1,NA,NA,NA,NA,NA,4,1,4
+"Administrativo/Tecnico","Facultad de Ingeniería Química y Agroindustria",17,NA,4,NA,NA,0,2,5,3,3,3,1,4,5,1,NA,NA,NA,NA,NA,3,3,2
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",20,3,NA,3,3,0,2,4,3,1,3,4,1,2,0,NA,NA,NA,NA,NA,NA,4,4
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",13,5,5,5,NA,2,4,2,5,4,5,2,2,2,0,NA,NA,NA,NA,NA,5,1,3
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",19,NA,5,3,3,0,1,3,3,2,NA,3,NA,1,NA,NA,NA,NA,NA,NA,5,3,4
+"Administrativo/Tecnico","Facultad de Ciencias",15,2,2,3,NA,NA,4,2,3,2,5,2,1,3,0,NA,NA,NA,NA,NA,NA,4,1
+"Administrativo/Tecnico","Facultad de Ingeniería Mecánica",7,1,2,NA,5,2,1,1,3,1,1,NA,3,3,0,NA,NA,NA,NA,NA,2,3,4
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",11,3,1,4,2,3,3,4,2,1,3,4,1,3,0,NA,NA,NA,NA,NA,2,5,2
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",2,3,2,4,5,2,4,1,3,2,3,4,5,3,1,NA,NA,NA,NA,NA,3,NA,1
+"Administrativo/Tecnico","Facultad de Ciencias",7,5,2,1,4,3,3,2,5,3,1,3,2,3,1,NA,NA,NA,NA,NA,2,4,2
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",15,3,4,4,4,0,3,3,3,2,5,3,2,5,1,NA,NA,NA,NA,NA,4,NA,4
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",11,5,3,2,3,NA,2,3,4,1,2,4,4,4,NA,NA,NA,NA,NA,NA,3,3,3
+"Administrativo/Tecnico","Facultad de Geología y Petróleos",11,1,2,1,1,3,1,3,4,4,2,3,5,4,0,NA,NA,NA,NA,NA,4,2,2
+"Administrativo/Tecnico","Facultad de Ingeniería Mecánica",2,3,2,5,2,0,4,2,3,1,NA,4,5,5,0,NA,NA,NA,NA,NA,2,3,4
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",4,3,4,1,1,NA,2,1,5,2,5,4,NA,3,0,NA,NA,NA,NA,NA,4,NA,3
+"Administrativo/Tecnico","Facultad de Geología y Petróleos",3,5,4,4,4,0,2,4,5,3,4,2,1,4,1,NA,NA,NA,NA,NA,4,NA,4
+"Administrativo/Tecnico","Facultad de Ciencias",10,1,4,3,3,3,3,4,1,1,2,4,2,3,0,NA,NA,NA,NA,NA,5,4,2
+"Administrativo/Tecnico","Facultad de Ciencias",2,3,1,4,4,3,1,5,4,4,3,5,1,2,1,NA,NA,NA,NA,NA,2,5,1
+"Administrativo/Tecnico","Facultad de Ciencias",11,NA,4,4,3,2,3,3,4,4,5,4,3,2,1,NA,NA,NA,NA,NA,3,5,4
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",1,2,4,2,4,3,2,5,5,2,5,2,5,3,0,NA,NA,NA,NA,NA,3,5,3
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",19,4,2,3,3,1,2,3,4,2,5,3,1,2,0,NA,NA,NA,NA,NA,NA,1,2
+"Administrativo/Tecnico","Facultad de Ingeniería Química y Agroindustria",11,2,3,3,NA,NA,1,2,5,4,3,5,4,2,0,NA,NA,NA,NA,NA,1,NA,3
+"Administrativo/Tecnico","Facultad de Ingeniería Química y Agroindustria",4,5,3,1,3,1,2,3,1,4,4,3,3,5,NA,NA,NA,NA,NA,NA,4,NA,4
+"Administrativo/Tecnico","Facultad de Ingeniería Química y Agroindustria",9,2,4,3,4,1,2,3,3,1,2,NA,3,5,1,NA,NA,NA,NA,NA,2,4,2
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",6,3,4,1,5,2,1,4,2,3,1,5,5,2,1,NA,NA,NA,NA,NA,5,2,3
+"Administrativo/Tecnico","Facultad de Ciencias",10,3,3,2,1,0,2,3,3,4,4,3,2,3,1,NA,NA,NA,NA,NA,2,5,1
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",9,NA,3,4,4,NA,2,2,4,4,2,2,5,5,1,NA,NA,NA,NA,NA,3,5,3
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",2,4,3,1,4,2,2,3,1,4,1,4,NA,4,1,NA,NA,NA,NA,NA,NA,3,1
+"Administrativo/Tecnico","Facultad de Ciencias",3,NA,3,2,4,3,2,1,5,2,2,2,3,3,0,NA,NA,NA,NA,NA,3,4,1
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",10,3,3,5,5,0,1,3,1,1,2,4,5,4,1,NA,NA,NA,NA,NA,1,2,3
+"Administrativo/Tecnico","Facultad de Ciencias",18,1,2,NA,5,3,3,1,1,2,3,2,3,5,NA,NA,NA,NA,NA,NA,3,2,3
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",15,NA,3,NA,4,0,2,1,3,2,4,5,3,3,NA,NA,NA,NA,NA,NA,2,3,4
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",4,NA,3,NA,3,2,1,5,4,2,1,3,3,2,1,NA,NA,NA,NA,NA,1,3,1
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",13,3,1,NA,5,0,1,3,5,2,3,1,4,1,1,NA,NA,NA,NA,NA,3,2,4
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",8,4,3,NA,5,0,2,2,3,4,1,NA,1,1,1,NA,NA,NA,NA,NA,2,4,4
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",10,NA,3,3,4,NA,1,3,1,2,3,4,3,5,1,NA,NA,NA,NA,NA,2,4,4
+"Administrativo/Tecnico","Facultad de Ingeniería Mecánica",10,2,2,4,4,1,4,1,4,1,3,NA,2,3,NA,NA,NA,NA,NA,NA,2,4,2
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",23,2,2,4,3,3,4,3,4,2,3,1,1,5,0,NA,NA,NA,NA,NA,5,3,1
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",1,2,5,4,NA,3,1,3,3,3,1,3,2,3,0,NA,NA,NA,NA,NA,3,4,2
+"Administrativo/Tecnico","Facultad de Ciencias",9,5,NA,3,4,1,4,4,5,3,3,4,4,2,1,NA,NA,NA,NA,NA,4,5,4
+"Administrativo/Tecnico","Facultad de Ingeniería Mecánica",3,1,NA,3,4,2,3,3,4,1,1,2,2,2,NA,NA,NA,NA,NA,NA,3,1,3
+"Administrativo/Tecnico","Facultad de Ingeniería Química y Agroindustria",12,5,5,NA,5,3,4,3,3,3,5,2,3,1,1,NA,NA,NA,NA,NA,2,3,4
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",15,2,1,1,2,3,NA,4,1,3,2,4,3,3,NA,NA,NA,NA,NA,NA,5,3,4
+"Administrativo/Tecnico","Facultad de Ingeniería Química y Agroindustria",17,4,3,1,4,1,1,1,3,2,3,2,3,3,1,NA,NA,NA,NA,NA,2,NA,4
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",4,4,NA,3,4,NA,1,2,3,2,2,1,1,5,1,NA,NA,NA,NA,NA,4,2,4
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",10,3,3,5,NA,1,4,3,4,2,3,5,4,4,0,NA,NA,NA,NA,NA,3,3,3
+"Administrativo/Tecnico","Facultad de Ciencias",18,4,5,5,2,1,3,3,3,1,1,3,NA,2,0,NA,NA,NA,NA,NA,1,5,1
+"Administrativo/Tecnico","Facultad de Geología y Petróleos",6,4,2,2,1,0,1,5,2,1,2,4,4,3,0,NA,NA,NA,NA,NA,1,3,2
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",7,2,5,4,3,3,3,4,2,4,3,1,4,2,NA,NA,NA,NA,NA,NA,5,4,1
+"Administrativo/Tecnico","Facultad de Ciencias",8,3,3,2,3,0,1,3,3,1,3,5,2,3,0,NA,NA,NA,NA,NA,5,4,4
+"Administrativo/Tecnico","Facultad de Ingeniería Mecánica",10,1,5,2,4,3,4,3,3,1,4,3,3,2,0,NA,NA,NA,NA,NA,1,3,3
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",12,1,5,4,2,1,4,2,4,4,5,4,2,2,0,NA,NA,NA,NA,NA,3,1,2
+"Administrativo/Tecnico","Facultad de Ciencias",16,NA,1,5,2,0,NA,1,4,3,2,2,1,3,1,NA,NA,NA,NA,NA,3,4,1
+"Administrativo/Tecnico","Facultad de Ingeniería Química y Agroindustria",7,4,3,2,3,NA,3,3,4,1,4,3,1,5,0,NA,NA,NA,NA,NA,3,4,4
+"Administrativo/Tecnico","Facultad de Ciencias",9,1,3,2,NA,1,1,2,3,3,5,2,5,3,0,NA,NA,NA,NA,NA,2,3,3
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",23,3,3,2,2,3,1,4,5,4,5,4,2,2,0,NA,NA,NA,NA,NA,1,4,1
+"Administrativo/Tecnico","Facultad de Ingeniería Mecánica",11,2,2,2,4,2,4,2,1,3,2,5,5,3,1,NA,NA,NA,NA,NA,NA,4,1
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",9,2,3,2,4,0,1,2,3,3,3,3,3,3,0,NA,NA,NA,NA,NA,5,2,1
+"Administrativo/Tecnico","Facultad de Ciencias",0,1,5,3,3,3,4,2,3,3,2,5,5,2,0,NA,NA,NA,NA,NA,3,3,2
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",8,4,3,3,4,3,3,4,5,2,2,3,2,2,1,NA,NA,NA,NA,NA,NA,3,2
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",7,3,5,4,3,3,3,1,3,2,2,3,4,5,NA,NA,NA,NA,NA,NA,3,NA,1
+"Administrativo/Tecnico","Facultad de Ciencias",8,1,4,4,2,1,3,3,2,3,4,3,5,3,1,NA,NA,NA,NA,NA,4,4,3
+"Administrativo/Tecnico","Facultad de Geología y Petróleos",5,NA,5,2,5,1,2,5,4,1,4,2,5,2,1,NA,NA,NA,NA,NA,3,2,3
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",4,1,1,1,3,1,NA,3,5,3,4,3,1,3,0,NA,NA,NA,NA,NA,4,5,1
+"Administrativo/Tecnico","Facultad de Ciencias",4,5,4,3,1,1,2,4,2,4,4,5,4,5,1,NA,NA,NA,NA,NA,5,3,1
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",7,3,1,3,NA,1,NA,3,3,4,4,3,1,3,1,NA,NA,NA,NA,NA,5,3,1
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",16,3,2,3,2,3,4,5,5,2,3,2,1,2,1,NA,NA,NA,NA,NA,2,3,1
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",14,5,3,4,4,1,2,3,2,3,3,3,3,1,1,NA,NA,NA,NA,NA,2,3,2
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",6,3,1,1,4,2,1,3,3,4,1,2,5,2,1,NA,NA,NA,NA,NA,5,3,1
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",2,3,3,3,1,NA,4,3,1,1,NA,5,5,2,1,NA,NA,NA,NA,NA,3,3,2
+"Administrativo/Tecnico","Facultad de Ingeniería Química y Agroindustria",3,4,5,4,2,NA,3,1,2,2,3,1,5,4,0,NA,NA,NA,NA,NA,4,5,4
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",5,5,3,2,5,0,4,1,1,1,NA,NA,2,NA,0,NA,NA,NA,NA,NA,4,4,2
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",9,1,4,4,2,0,4,4,4,4,2,1,NA,4,0,NA,NA,NA,NA,NA,4,2,3
+"Administrativo/Tecnico","Facultad de Ciencias",4,3,5,2,NA,2,2,1,5,2,2,2,2,2,0,NA,NA,NA,NA,NA,3,2,4
+"Administrativo/Tecnico","Facultad de Geología y Petróleos",20,3,3,1,2,2,2,3,4,3,2,4,2,NA,1,NA,NA,NA,NA,NA,2,2,1
+"Administrativo/Tecnico","Facultad de Ciencias",6,NA,3,2,1,2,2,2,4,3,2,3,2,3,0,NA,NA,NA,NA,NA,1,NA,2
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",1,2,2,1,5,0,4,3,3,1,4,5,5,2,0,NA,NA,NA,NA,NA,4,4,1
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",7,4,4,4,4,0,2,5,4,1,5,2,2,3,0,NA,NA,NA,NA,NA,4,4,1
+"Administrativo/Tecnico","Facultad de Ingeniería Mecánica",2,NA,2,NA,3,0,4,2,3,1,1,5,NA,1,NA,NA,NA,NA,NA,NA,2,1,2
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",9,1,2,4,5,3,1,2,2,3,1,NA,2,NA,0,NA,NA,NA,NA,NA,NA,4,4
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",9,3,4,2,NA,2,3,1,3,2,3,3,4,5,0,NA,NA,NA,NA,NA,2,2,2
+"Administrativo/Tecnico","Facultad de Geología y Petróleos",10,3,3,5,1,2,2,3,4,1,1,5,3,4,0,NA,NA,NA,NA,NA,4,NA,2
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",2,5,3,3,3,3,4,3,5,4,2,1,3,4,1,NA,NA,NA,NA,NA,5,3,1
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",9,1,3,1,1,1,1,2,5,4,2,5,4,5,0,NA,NA,NA,NA,NA,3,3,4
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",10,4,4,1,3,3,3,2,4,2,NA,5,3,1,0,NA,NA,NA,NA,NA,5,3,2
+"Administrativo/Tecnico","Facultad de Ingeniería Mecánica",1,3,2,2,2,3,NA,1,5,3,2,4,4,4,0,NA,NA,NA,NA,NA,1,3,1
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",14,3,1,1,4,2,1,3,1,1,3,1,NA,5,1,NA,NA,NA,NA,NA,3,4,4
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",13,2,3,NA,5,0,1,3,2,2,2,3,4,2,0,NA,NA,NA,NA,NA,NA,4,1
+"Administrativo/Tecnico","Facultad de Ciencias",22,NA,4,2,2,3,NA,4,2,1,4,5,5,3,NA,NA,NA,NA,NA,NA,3,3,1
+"Administrativo/Tecnico","Facultad de Ciencias",9,NA,NA,5,4,3,1,1,5,2,NA,4,1,NA,0,NA,NA,NA,NA,NA,4,5,1
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",8,5,3,3,2,0,4,4,4,1,2,5,4,3,0,NA,NA,NA,NA,NA,3,4,1
+"Administrativo/Tecnico","Facultad de Ciencias",9,3,3,2,4,2,4,5,2,1,2,3,1,1,1,NA,NA,NA,NA,NA,4,4,2
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",8,4,4,NA,3,1,2,1,5,2,5,3,2,4,1,NA,NA,NA,NA,NA,4,NA,1
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",3,4,4,5,NA,1,3,4,2,4,1,NA,1,2,0,NA,NA,NA,NA,NA,2,1,1
+"Administrativo/Tecnico","Facultad de Geología y Petróleos",2,NA,1,3,5,2,4,5,2,2,1,5,1,5,0,NA,NA,NA,NA,NA,NA,3,4
+"Administrativo/Tecnico","Facultad de Ciencias",8,4,4,2,5,0,3,4,3,3,2,1,5,2,1,NA,NA,NA,NA,NA,4,2,2
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",5,3,4,4,3,0,3,5,5,2,2,4,4,2,0,NA,NA,NA,NA,NA,4,NA,1
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",8,3,2,3,5,0,3,5,1,3,2,4,5,4,1,NA,NA,NA,NA,NA,4,5,2
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",5,3,2,2,3,0,2,1,3,4,3,2,4,5,0,NA,NA,NA,NA,NA,4,2,2
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",1,3,3,3,4,3,1,3,5,2,2,4,4,4,1,NA,NA,NA,NA,NA,4,1,3
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",1,NA,2,3,3,0,2,3,3,4,3,5,NA,1,0,NA,NA,NA,NA,NA,3,4,1
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",14,3,3,4,5,3,4,4,4,1,2,4,4,3,1,NA,NA,NA,NA,NA,NA,NA,3
+"Administrativo/Tecnico","Facultad de Ingeniería Mecánica",1,3,1,5,5,2,4,2,5,1,NA,1,3,3,0,NA,NA,NA,NA,NA,NA,1,2
+"Administrativo/Tecnico","Facultad de Ciencias",3,1,3,1,3,1,NA,2,4,1,4,5,4,2,0,NA,NA,NA,NA,NA,3,4,3
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",8,4,5,2,1,0,1,5,3,3,4,5,1,3,0,NA,NA,NA,NA,NA,NA,4,1
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",6,5,3,NA,NA,2,3,3,2,2,5,3,NA,5,NA,NA,NA,NA,NA,NA,2,3,2
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",9,1,NA,2,4,0,NA,3,1,3,3,3,3,1,1,NA,NA,NA,NA,NA,2,3,3
+"Administrativo/Tecnico","Facultad de Ingeniería Química y Agroindustria",22,4,NA,3,4,0,4,2,3,3,3,4,3,3,1,NA,NA,NA,NA,NA,3,3,3
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",1,2,1,3,3,3,2,3,4,2,1,4,2,2,1,NA,NA,NA,NA,NA,NA,5,3
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",6,1,2,5,5,3,2,3,3,2,3,5,3,NA,0,NA,NA,NA,NA,NA,2,1,2
+"Administrativo/Tecnico","Facultad de Ingeniería Química y Agroindustria",5,1,NA,1,2,1,3,4,5,2,2,2,3,1,NA,NA,NA,NA,NA,NA,NA,2,2
+"Administrativo/Tecnico","Facultad de Ingeniería Mecánica",17,4,2,2,1,0,NA,3,3,1,NA,3,2,3,1,NA,NA,NA,NA,NA,2,3,1
+"Administrativo/Tecnico","Facultad de Geología y Petróleos",3,3,3,2,2,1,NA,5,5,4,4,NA,5,NA,0,NA,NA,NA,NA,NA,NA,2,3
+"Administrativo/Tecnico","Facultad de Geología y Petróleos",8,4,4,2,5,0,1,1,1,4,5,2,4,3,1,NA,NA,NA,NA,NA,4,3,3
+"Administrativo/Tecnico","Facultad de Geología y Petróleos",13,5,5,1,NA,0,2,2,5,2,3,2,4,4,1,NA,NA,NA,NA,NA,4,1,1
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",2,3,NA,NA,NA,0,2,4,3,4,NA,3,5,3,1,NA,NA,NA,NA,NA,2,NA,3
+"Administrativo/Tecnico","Facultad de Ingeniería Mecánica",18,4,4,3,2,3,1,3,4,4,2,NA,2,3,1,NA,NA,NA,NA,NA,1,4,4
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",12,1,NA,3,3,0,3,4,2,3,4,4,3,NA,1,NA,NA,NA,NA,NA,4,2,3
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",2,3,4,3,NA,1,1,3,3,1,3,4,2,4,1,NA,NA,NA,NA,NA,3,2,1
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",11,NA,1,3,2,3,4,5,2,3,NA,2,3,5,1,NA,NA,NA,NA,NA,2,3,3
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",7,3,1,1,4,2,2,3,2,3,5,2,3,4,0,NA,NA,NA,NA,NA,5,2,3
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",10,3,NA,4,3,0,3,2,3,4,2,3,2,1,1,NA,NA,NA,NA,NA,5,3,4
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",7,4,3,2,4,NA,3,3,1,2,5,4,1,4,1,NA,NA,NA,NA,NA,3,4,2
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",14,2,1,1,2,1,4,5,4,4,5,2,2,2,0,NA,NA,NA,NA,NA,2,3,1
+"Administrativo/Tecnico","Facultad de Geología y Petróleos",0,4,2,2,1,1,1,2,1,1,2,4,3,4,1,NA,NA,NA,NA,NA,NA,5,2
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",5,1,NA,2,2,1,NA,2,3,3,1,3,1,2,1,NA,NA,NA,NA,NA,3,4,2
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",7,4,5,4,5,NA,2,5,1,1,3,2,2,5,0,NA,NA,NA,NA,NA,3,NA,2
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",2,3,NA,4,2,1,3,5,1,4,4,5,1,5,0,NA,NA,NA,NA,NA,1,3,4
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",2,5,NA,2,5,0,3,3,3,2,NA,3,5,5,1,NA,NA,NA,NA,NA,5,3,4
+"Administrativo/Tecnico","Facultad de Ciencias",8,4,4,5,4,3,4,3,4,2,3,3,5,5,1,NA,NA,NA,NA,NA,5,5,2
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",7,2,3,1,5,0,1,3,3,3,2,5,3,3,0,NA,NA,NA,NA,NA,3,2,1
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",7,2,3,3,NA,0,3,3,1,3,3,5,1,3,1,NA,NA,NA,NA,NA,4,4,1
+"Administrativo/Tecnico","Facultad de Ingeniería Química y Agroindustria",14,2,2,2,4,0,1,3,2,1,5,NA,2,NA,NA,NA,NA,NA,NA,NA,2,2,3
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",9,5,NA,5,NA,3,1,2,3,3,NA,2,1,2,0,NA,NA,NA,NA,NA,5,2,2
+"Administrativo/Tecnico","Facultad de Ingeniería Química y Agroindustria",22,4,2,2,1,2,1,1,1,4,5,NA,3,1,NA,NA,NA,NA,NA,NA,5,3,4
+"Administrativo/Tecnico","Facultad de Ciencias",12,5,3,2,2,3,3,2,3,2,3,4,2,2,0,NA,NA,NA,NA,NA,5,2,2
+"Administrativo/Tecnico","Facultad de Ingeniería Mecánica",5,3,1,3,4,3,2,3,3,4,4,2,2,2,1,NA,NA,NA,NA,NA,2,3,4
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",25,3,2,1,3,2,4,3,4,2,4,3,NA,3,1,NA,NA,NA,NA,NA,5,NA,2
+"Administrativo/Tecnico","Facultad de Ingeniería Química y Agroindustria",25,1,4,1,5,2,2,3,3,3,NA,4,3,2,NA,NA,NA,NA,NA,NA,4,5,4
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",1,NA,3,2,3,1,2,4,5,3,3,5,NA,2,0,NA,NA,NA,NA,NA,5,5,4
+"Administrativo/Tecnico","Facultad de Ingeniería Mecánica",11,NA,3,4,2,1,4,1,1,1,5,4,5,2,0,NA,NA,NA,NA,NA,3,2,4
+"Administrativo/Tecnico","Facultad de Ciencias",7,1,3,3,2,1,3,4,1,2,5,2,4,3,1,NA,NA,NA,NA,NA,1,4,4
+"Administrativo/Tecnico","Facultad de Ingeniería Mecánica",9,3,4,3,3,2,2,4,1,2,2,4,2,3,0,NA,NA,NA,NA,NA,NA,1,1
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",9,1,1,1,3,2,1,2,3,2,5,4,1,4,0,NA,NA,NA,NA,NA,5,NA,3
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",0,3,2,1,3,2,3,3,4,4,1,4,4,1,1,NA,NA,NA,NA,NA,2,2,2
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",10,3,5,1,3,0,2,3,5,2,3,4,2,NA,0,NA,NA,NA,NA,NA,1,3,3
+"Administrativo/Tecnico","Facultad de Ciencias Administrativas",18,3,NA,4,5,2,1,3,1,4,3,1,1,1,1,NA,NA,NA,NA,NA,3,5,2
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",7,1,5,5,NA,0,NA,4,5,1,5,5,1,3,0,NA,NA,NA,NA,NA,1,1,2
+"Administrativo/Tecnico","Facultad de Ingeniería de Sistemas",7,1,NA,3,1,1,1,3,5,1,3,4,3,4,1,NA,NA,NA,NA,NA,4,3,1
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",16,5,4,4,4,0,3,2,2,3,5,4,5,4,1,NA,NA,NA,NA,NA,3,3,1
+"Administrativo/Tecnico","Facultad de Ciencias",13,3,3,3,2,2,4,4,3,4,3,5,2,2,1,NA,NA,NA,NA,NA,NA,2,3
+"Administrativo/Tecnico","Facultad de Ingeniería Civil y Ambiental",2,2,5,1,2,1,3,2,3,4,NA,4,4,2,0,NA,NA,NA,NA,NA,4,1,4
+"Administrativo/Tecnico","Facultad de Ingeniería Mecánica",9,3,1,2,2,1,3,2,2,3,3,3,2,NA,NA,NA,NA,NA,NA,NA,4,2,2
+"Administrativo/Tecnico","Facultad de Ingeniería Eléctrica y Electrónica",18,5,5,3,3,3,NA,3,3,3,3,3,3,2,1,NA,NA,NA,NA,NA,3,2,2
+"Estudiante","Facultad de Ingeniería de Sistemas",16,5,3,3,3,0,1,NA,NA,NA,2,2,5,1,0,2,2,3,4,0,2,2,3
+"Estudiante","Facultad de Ciencias",11,2,1,NA,5,3,NA,NA,NA,NA,3,3,4,1,1,4,2,3,1,1,5,2,3
+"Estudiante","Facultad de Ciencias Administrativas",12,4,3,2,1,NA,1,NA,NA,NA,2,1,3,4,0,3,4,3,3,1,2,2,4
+"Estudiante","Facultad de Ingeniería Mecánica",1,5,5,1,4,1,NA,NA,NA,NA,5,5,1,2,1,4,1,3,3,1,2,3,4
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",10,5,4,1,3,1,3,NA,NA,NA,3,5,2,3,1,3,1,3,2,1,1,3,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",2,4,2,NA,4,0,1,NA,NA,NA,1,4,3,4,0,1,3,2,3,0,4,5,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",5,2,NA,5,2,3,2,NA,NA,NA,NA,4,3,NA,1,3,2,1,4,0,3,2,2
+"Estudiante","Facultad de Ciencias",14,4,2,5,3,1,2,NA,NA,NA,2,3,5,NA,0,4,2,3,3,0,3,4,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",1,1,4,1,5,1,4,NA,NA,NA,1,3,4,4,1,5,3,1,3,1,5,3,1
+"Estudiante","Facultad de Ciencias Administrativas",10,2,2,5,3,1,NA,NA,NA,NA,1,3,1,4,0,1,2,3,2,1,2,4,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",11,3,NA,3,3,1,3,NA,NA,NA,4,5,2,2,0,3,4,2,5,1,2,2,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",8,4,2,1,NA,3,NA,NA,NA,NA,1,2,NA,1,1,3,1,2,3,0,NA,5,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",19,NA,1,3,4,3,3,NA,NA,NA,4,2,4,5,0,4,1,1,5,0,3,5,1
+"Estudiante","Facultad de Ciencias",2,1,NA,3,5,2,2,NA,NA,NA,4,3,1,3,1,5,2,3,3,0,5,5,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",12,3,2,3,1,2,3,NA,NA,NA,1,5,3,2,0,1,3,2,1,0,3,3,1
+"Estudiante","Facultad de Geología y Petróleos",7,5,1,5,4,1,2,NA,NA,NA,4,1,2,3,0,3,2,4,2,0,3,4,1
+"Estudiante","Facultad de Ciencias",6,5,4,1,1,0,3,NA,NA,NA,2,3,NA,5,1,5,1,2,1,1,4,3,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",11,4,3,3,2,2,3,NA,NA,NA,1,2,5,NA,0,4,4,2,1,0,3,4,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",2,4,4,1,3,1,2,NA,NA,NA,NA,3,2,2,1,2,2,3,3,0,2,2,3
+"Estudiante","Facultad de Geología y Petróleos",0,4,3,1,3,2,2,NA,NA,NA,2,4,2,3,0,2,3,4,3,0,4,3,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",5,1,1,5,3,3,3,NA,NA,NA,4,NA,2,1,1,1,2,2,3,0,5,2,3
+"Estudiante","Facultad de Geología y Petróleos",19,2,NA,3,2,0,4,NA,NA,NA,3,NA,3,2,1,2,4,2,1,0,4,3,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",8,1,4,2,3,1,3,NA,NA,NA,3,3,3,1,0,3,1,3,3,1,3,4,2
+"Estudiante","Facultad de Ingeniería de Sistemas",10,3,3,2,3,2,2,NA,NA,NA,1,3,5,3,0,5,3,2,2,0,5,3,4
+"Estudiante","Facultad de Ingeniería Mecánica",7,4,3,3,2,0,1,NA,NA,NA,1,3,1,5,0,3,1,4,4,0,4,3,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",11,3,1,4,3,0,4,NA,NA,NA,NA,1,1,4,0,2,3,5,3,0,NA,1,1
+"Estudiante","Facultad de Ingeniería Mecánica",2,3,4,NA,3,1,NA,NA,NA,NA,5,3,1,2,1,3,3,3,3,0,4,3,4
+"Estudiante","Facultad de Ingeniería de Sistemas",15,5,2,3,1,2,2,NA,NA,NA,3,1,NA,3,0,3,2,5,3,1,4,4,3
+"Estudiante","Facultad de Ingeniería Mecánica",12,3,4,3,3,3,1,NA,NA,NA,5,NA,NA,4,1,2,3,4,3,0,4,NA,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",3,4,3,2,5,1,1,NA,NA,NA,2,3,4,3,0,1,4,1,5,1,2,5,4
+"Estudiante","Facultad de Ciencias",8,2,2,NA,3,3,3,NA,NA,NA,3,1,4,3,0,5,2,3,1,0,3,1,2
+"Estudiante","Facultad de Geología y Petróleos",12,2,3,4,2,2,1,NA,NA,NA,3,3,4,2,1,1,1,3,4,0,5,1,1
+"Estudiante","Facultad de Geología y Petróleos",11,2,NA,2,3,3,4,NA,NA,NA,4,3,NA,2,1,3,3,2,2,0,2,4,1
+"Estudiante","Facultad de Ciencias Administrativas",17,5,5,NA,5,2,2,NA,NA,NA,3,4,2,3,0,3,4,2,1,1,3,1,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",4,1,4,3,3,3,3,NA,NA,NA,3,1,4,2,0,2,3,4,1,1,2,3,3
+"Estudiante","Facultad de Ciencias",15,3,1,1,2,2,3,NA,NA,NA,1,NA,5,4,NA,5,3,4,5,0,5,2,1
+"Estudiante","Facultad de Ciencias Administrativas",14,3,NA,3,5,3,3,NA,NA,NA,4,3,3,1,0,2,5,3,4,0,3,2,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",7,4,2,2,4,1,NA,NA,NA,NA,4,3,3,3,1,5,2,2,3,1,5,1,2
+"Estudiante","Facultad de Geología y Petróleos",2,NA,2,NA,4,0,1,NA,NA,NA,3,NA,4,3,0,4,4,4,4,0,4,4,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",1,3,4,1,4,3,1,NA,NA,NA,5,1,NA,2,0,4,3,2,2,1,3,3,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",11,2,NA,3,4,0,2,NA,NA,NA,2,4,3,NA,NA,5,4,3,3,0,4,3,3
+"Estudiante","Facultad de Ciencias Administrativas",8,3,3,1,1,3,1,NA,NA,NA,3,NA,3,4,1,4,2,4,1,1,4,4,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",19,NA,5,2,4,1,3,NA,NA,NA,NA,3,3,5,NA,1,4,5,1,0,4,4,4
+"Estudiante","Facultad de Ciencias",11,NA,1,3,3,1,2,NA,NA,NA,4,2,5,3,0,1,3,1,3,0,4,3,4
+"Estudiante","Facultad de Ingeniería Mecánica",6,NA,3,NA,5,1,2,NA,NA,NA,2,3,1,3,0,3,1,3,4,1,3,3,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",2,NA,5,NA,1,0,2,NA,NA,NA,3,2,5,3,NA,1,2,1,3,0,NA,NA,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",5,3,1,3,4,3,NA,NA,NA,NA,3,2,2,1,1,4,4,3,5,0,2,1,3
+"Estudiante","Facultad de Ingeniería de Sistemas",10,2,3,NA,3,3,1,NA,NA,NA,4,2,5,5,1,3,3,3,3,0,5,3,3
+"Estudiante","Facultad de Ingeniería de Sistemas",5,4,4,3,2,1,1,NA,NA,NA,3,1,2,2,0,2,5,3,4,0,4,1,2
+"Estudiante","Facultad de Ciencias Administrativas",11,4,3,2,2,0,1,NA,NA,NA,5,3,2,3,0,2,3,1,5,1,4,3,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",6,2,2,2,4,0,4,NA,NA,NA,2,3,2,4,0,1,4,1,5,1,4,2,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",7,3,2,3,2,NA,4,NA,NA,NA,2,4,NA,1,1,2,3,5,5,0,1,4,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",4,1,5,2,3,2,4,NA,NA,NA,2,4,2,4,1,5,2,4,4,1,4,4,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",19,1,3,3,2,2,NA,NA,NA,NA,3,1,5,3,1,1,4,1,3,0,2,2,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",10,1,NA,3,4,0,2,NA,NA,NA,5,1,5,1,1,4,4,1,3,1,3,3,2
+"Estudiante","Facultad de Geología y Petróleos",9,1,2,4,1,1,1,NA,NA,NA,1,1,4,3,1,5,5,4,4,1,5,2,1
+"Estudiante","Facultad de Ingeniería de Sistemas",2,2,NA,3,NA,0,1,NA,NA,NA,3,2,2,3,NA,3,1,3,4,0,4,4,4
+"Estudiante","Facultad de Ingeniería Mecánica",12,4,3,2,3,0,3,NA,NA,NA,3,3,3,5,0,3,5,3,2,0,3,2,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",2,2,1,2,3,3,3,NA,NA,NA,5,1,5,NA,0,4,3,3,3,1,4,3,2
+"Estudiante","Facultad de Ciencias",3,3,4,4,5,0,2,NA,NA,NA,4,2,1,4,0,5,3,3,3,0,NA,4,1
+"Estudiante","Facultad de Geología y Petróleos",14,5,4,3,4,0,3,NA,NA,NA,NA,3,1,3,0,3,5,3,2,1,4,5,2
+"Estudiante","Facultad de Ingeniería Mecánica",5,5,4,3,4,3,4,NA,NA,NA,4,1,3,4,0,3,3,5,5,0,NA,5,4
+"Estudiante","Facultad de Ciencias",2,3,1,3,4,1,3,NA,NA,NA,2,3,1,1,NA,1,3,4,3,0,NA,2,3
+"Estudiante","Facultad de Ingeniería Mecánica",19,1,5,2,2,NA,3,NA,NA,NA,5,1,5,3,0,5,5,2,5,0,3,NA,3
+"Estudiante","Facultad de Ingeniería de Sistemas",6,NA,1,3,3,2,1,NA,NA,NA,1,3,2,4,1,2,3,3,3,1,4,4,2
+"Estudiante","Facultad de Ingeniería Mecánica",11,4,NA,4,5,2,3,NA,NA,NA,2,3,1,1,0,5,1,1,3,1,2,5,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",14,5,2,1,2,2,4,NA,NA,NA,1,2,2,NA,0,5,4,3,3,1,4,2,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",4,NA,1,4,NA,1,1,NA,NA,NA,4,1,NA,4,0,1,1,2,3,1,3,3,1
+"Estudiante","Facultad de Ingeniería Mecánica",11,2,4,4,2,2,4,NA,NA,NA,2,NA,5,4,0,2,4,3,1,0,3,3,1
+"Estudiante","Facultad de Ciencias Administrativas",11,2,2,2,5,3,4,NA,NA,NA,3,3,5,4,1,2,3,3,2,0,3,4,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",14,2,2,1,NA,3,NA,NA,NA,NA,5,1,3,2,1,3,1,4,4,1,3,5,4
+"Estudiante","Facultad de Ingeniería de Sistemas",11,3,3,3,4,2,NA,NA,NA,NA,NA,NA,4,3,1,5,3,2,1,1,3,4,4
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",7,2,2,2,1,2,4,NA,NA,NA,2,1,3,2,0,1,2,2,2,1,4,3,2
+"Estudiante","Facultad de Geología y Petróleos",13,4,4,5,2,0,3,NA,NA,NA,3,4,4,3,1,4,5,3,3,1,2,5,2
+"Estudiante","Facultad de Geología y Petróleos",13,3,3,3,3,3,4,NA,NA,NA,5,2,4,4,1,2,3,1,3,1,5,3,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",2,1,5,1,3,2,1,NA,NA,NA,3,2,NA,3,0,3,4,4,2,0,3,5,4
+"Estudiante","Facultad de Ciencias Administrativas",0,3,3,NA,3,2,4,NA,NA,NA,2,5,1,1,1,2,5,3,4,1,NA,4,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",9,4,2,NA,2,2,2,NA,NA,NA,2,3,5,NA,0,3,4,3,3,1,3,3,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",6,2,2,3,4,0,3,NA,NA,NA,4,3,2,4,1,4,3,1,3,1,3,4,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",2,3,1,1,5,1,1,NA,NA,NA,3,3,2,4,1,3,5,4,5,0,5,3,4
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",9,2,4,3,1,0,4,NA,NA,NA,3,2,4,3,1,4,2,4,2,0,4,NA,1
+"Estudiante","Facultad de Ciencias",0,1,1,2,2,0,2,NA,NA,NA,1,5,2,3,1,5,2,2,1,0,2,1,3
+"Estudiante","Facultad de Geología y Petróleos",9,5,NA,5,4,1,3,NA,NA,NA,3,4,3,4,0,2,5,2,4,1,3,3,2
+"Estudiante","Facultad de Ciencias",4,NA,5,3,3,1,3,NA,NA,NA,3,3,4,1,0,4,3,5,4,1,4,3,3
+"Estudiante","Facultad de Geología y Petróleos",14,1,3,2,4,2,2,NA,NA,NA,4,3,1,5,1,4,3,4,4,1,3,3,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",23,5,4,3,NA,1,NA,NA,NA,NA,1,4,2,2,0,3,4,1,3,1,1,4,3
+"Estudiante","Facultad de Ingeniería Mecánica",3,2,1,3,NA,3,1,NA,NA,NA,2,3,3,NA,1,2,1,1,2,1,5,3,1
+"Estudiante","Facultad de Geología y Petróleos",14,5,3,1,4,0,1,NA,NA,NA,2,3,2,4,NA,3,3,2,2,0,4,3,3
+"Estudiante","Facultad de Ingeniería Mecánica",13,4,2,3,5,0,3,NA,NA,NA,3,5,4,4,0,3,3,2,2,1,5,4,3
+"Estudiante","Facultad de Ingeniería de Sistemas",8,2,2,1,NA,0,4,NA,NA,NA,5,2,4,4,1,3,3,5,5,1,2,2,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",5,2,1,3,5,2,3,NA,NA,NA,3,3,NA,3,1,5,3,5,4,0,5,5,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",17,4,NA,2,5,NA,3,NA,NA,NA,3,2,3,4,0,2,1,4,1,1,4,2,3
+"Estudiante","Facultad de Geología y Petróleos",4,5,2,5,NA,2,1,NA,NA,NA,4,5,3,5,0,1,1,3,4,1,4,2,3
+"Estudiante","Facultad de Ingeniería Mecánica",4,2,5,2,3,3,1,NA,NA,NA,4,1,5,4,1,3,3,3,3,0,2,4,1
+"Estudiante","Facultad de Ciencias Administrativas",1,4,3,4,1,0,3,NA,NA,NA,NA,3,1,NA,0,5,5,5,2,0,3,4,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",16,4,2,2,3,3,4,NA,NA,NA,1,2,5,1,1,4,3,3,4,0,1,3,3
+"Estudiante","Facultad de Ciencias",7,4,3,3,4,1,4,NA,NA,NA,3,5,1,2,1,4,1,1,2,0,NA,3,4
+"Estudiante","Facultad de Ingeniería Mecánica",5,1,3,4,5,NA,3,NA,NA,NA,1,3,1,4,0,5,2,3,5,0,2,1,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",27,1,4,4,2,1,1,NA,NA,NA,3,2,3,3,1,1,4,3,2,0,NA,5,2
+"Estudiante","Facultad de Ciencias",8,5,1,2,3,2,4,NA,NA,NA,2,5,5,2,0,4,4,2,4,1,3,5,4
+"Estudiante","Facultad de Ingeniería de Sistemas",5,3,5,2,4,3,1,NA,NA,NA,5,5,5,3,1,5,2,4,3,0,4,2,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",10,2,4,1,3,1,1,NA,NA,NA,NA,NA,1,1,0,1,1,4,4,0,4,1,2
+"Estudiante","Facultad de Ingeniería Mecánica",1,1,4,1,5,2,4,NA,NA,NA,5,2,3,2,0,4,4,3,4,0,3,2,3
+"Estudiante","Facultad de Geología y Petróleos",11,NA,3,2,4,3,1,NA,NA,NA,2,4,3,5,1,2,3,4,4,1,3,5,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",7,4,1,1,3,NA,2,NA,NA,NA,2,3,2,1,0,1,3,5,1,1,5,3,1
+"Estudiante","Facultad de Ingeniería de Sistemas",11,5,5,3,3,0,2,NA,NA,NA,2,5,NA,2,0,4,3,2,4,0,3,3,2
+"Estudiante","Facultad de Ingeniería de Sistemas",2,4,1,1,5,2,4,NA,NA,NA,3,2,5,4,NA,3,1,2,4,1,4,5,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",2,3,NA,1,5,3,4,NA,NA,NA,2,3,5,4,NA,3,2,5,4,0,3,3,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",4,3,5,1,3,0,1,NA,NA,NA,3,3,2,3,1,3,2,4,4,1,3,4,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",3,2,5,NA,4,2,2,NA,NA,NA,1,5,4,NA,0,3,2,5,4,1,NA,3,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",16,2,4,5,3,1,1,NA,NA,NA,NA,1,1,1,0,4,2,3,3,1,1,3,1
+"Estudiante","Facultad de Ciencias",17,1,4,2,5,1,2,NA,NA,NA,3,2,2,NA,1,4,4,3,1,1,3,4,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",7,4,5,3,5,3,1,NA,NA,NA,5,5,1,2,0,3,3,4,2,1,3,NA,2
+"Estudiante","Facultad de Ciencias Administrativas",6,3,2,2,5,3,1,NA,NA,NA,3,4,4,1,1,4,4,3,2,0,5,5,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",6,3,3,1,3,1,4,NA,NA,NA,5,4,3,2,0,2,4,1,3,0,2,NA,2
+"Estudiante","Facultad de Geología y Petróleos",8,3,4,4,3,0,NA,NA,NA,NA,5,2,NA,5,1,4,5,2,4,0,NA,4,1
+"Estudiante","Facultad de Ingeniería Mecánica",9,NA,4,4,4,3,1,NA,NA,NA,4,3,3,3,0,5,3,5,4,1,5,4,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",10,5,NA,3,2,0,2,NA,NA,NA,NA,1,1,3,1,3,4,3,1,0,3,3,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",4,5,1,4,NA,3,3,NA,NA,NA,3,3,3,2,NA,4,2,3,1,0,NA,5,2
+"Estudiante","Facultad de Geología y Petróleos",3,4,NA,5,4,0,2,NA,NA,NA,4,5,5,3,1,3,5,3,1,0,3,5,1
+"Estudiante","Facultad de Geología y Petróleos",15,2,3,2,3,0,1,NA,NA,NA,5,5,5,3,NA,3,3,2,2,1,5,5,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",5,3,3,5,2,1,NA,NA,NA,NA,3,2,4,1,0,3,4,2,2,0,3,3,4
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",10,3,5,4,5,1,3,NA,NA,NA,1,4,3,4,0,5,4,5,3,0,1,2,3
+"Estudiante","Facultad de Ciencias Administrativas",8,5,2,5,NA,1,2,NA,NA,NA,NA,3,3,1,1,3,4,2,2,0,3,4,2
+"Estudiante","Facultad de Ingeniería Mecánica",2,3,2,4,4,1,NA,NA,NA,NA,2,3,NA,5,0,2,5,1,2,1,3,5,3
+"Estudiante","Facultad de Geología y Petróleos",12,3,4,2,1,1,2,NA,NA,NA,2,1,4,1,0,2,3,4,3,1,2,3,1
+"Estudiante","Facultad de Ingeniería Mecánica",9,4,2,4,4,NA,2,NA,NA,NA,3,4,2,NA,0,2,1,3,1,1,3,5,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",16,3,2,4,2,2,2,NA,NA,NA,1,NA,NA,4,1,3,3,4,2,1,3,5,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",9,3,2,1,4,3,2,NA,NA,NA,3,4,3,1,1,2,3,5,2,1,5,2,2
+"Estudiante","Facultad de Geología y Petróleos",6,3,4,3,NA,NA,3,NA,NA,NA,1,3,4,4,0,5,5,1,4,0,5,NA,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",10,5,3,2,NA,0,4,NA,NA,NA,4,1,3,2,0,3,3,2,3,0,4,5,3
+"Estudiante","Facultad de Ingeniería Mecánica",1,5,3,4,2,NA,NA,NA,NA,NA,4,4,3,NA,0,2,5,1,4,0,1,5,4
+"Estudiante","Facultad de Ciencias Administrativas",3,3,NA,NA,3,0,2,NA,NA,NA,3,3,1,5,0,2,1,1,2,1,4,1,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",11,4,3,3,5,3,4,NA,NA,NA,1,4,3,NA,0,3,4,5,5,0,4,3,1
+"Estudiante","Facultad de Geología y Petróleos",6,2,4,NA,2,1,2,NA,NA,NA,1,5,3,NA,0,3,3,4,5,0,4,2,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",8,4,1,NA,4,1,NA,NA,NA,NA,3,2,2,4,0,3,4,1,2,1,2,4,4
+"Estudiante","Facultad de Geología y Petróleos",7,3,5,1,3,0,2,NA,NA,NA,NA,3,3,1,1,4,1,2,4,0,3,NA,4
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",4,1,4,3,3,1,1,NA,NA,NA,2,5,1,4,0,5,2,3,1,0,NA,5,4
+"Estudiante","Facultad de Geología y Petróleos",4,3,4,5,3,3,1,NA,NA,NA,3,4,1,1,NA,3,3,4,3,0,2,4,2
+"Estudiante","Facultad de Ingeniería Mecánica",10,3,2,3,4,2,4,NA,NA,NA,2,3,5,1,1,3,2,3,2,1,1,3,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",13,3,4,3,5,0,NA,NA,NA,NA,3,4,NA,NA,NA,2,4,1,3,0,4,4,1
+"Estudiante","Facultad de Ciencias",0,3,NA,4,NA,NA,1,NA,NA,NA,3,4,4,1,0,4,2,1,4,0,NA,3,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",17,4,3,3,3,1,2,NA,NA,NA,3,3,1,NA,0,3,4,3,2,1,2,3,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",10,3,5,3,3,3,3,NA,NA,NA,2,3,3,4,1,4,3,3,3,1,3,1,1
+"Estudiante","Facultad de Ingeniería Mecánica",16,2,1,3,NA,1,2,NA,NA,NA,NA,3,2,2,0,3,2,3,1,0,4,4,3
+"Estudiante","Facultad de Ciencias",2,2,2,3,5,0,1,NA,NA,NA,4,4,4,3,0,3,5,2,2,0,2,1,1
+"Estudiante","Facultad de Ciencias",9,2,4,3,5,NA,4,NA,NA,NA,4,3,NA,2,1,1,3,4,1,1,2,2,2
+"Estudiante","Facultad de Ingeniería Mecánica",7,1,4,5,NA,2,1,NA,NA,NA,3,4,3,2,1,3,2,3,4,1,3,3,1
+"Estudiante","Facultad de Ciencias Administrativas",13,3,NA,2,2,0,1,NA,NA,NA,4,2,2,3,0,2,3,3,1,1,5,3,1
+"Estudiante","Facultad de Ingeniería Mecánica",5,1,2,1,4,0,3,NA,NA,NA,3,3,1,3,1,2,1,5,3,1,3,NA,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",8,3,2,2,5,3,2,NA,NA,NA,2,2,4,5,1,1,3,5,4,1,3,3,2
+"Estudiante","Facultad de Ingeniería de Sistemas",3,3,2,1,3,NA,1,NA,NA,NA,1,2,2,2,0,5,3,2,3,0,5,4,3
+"Estudiante","Facultad de Ciencias",3,2,3,4,3,3,2,NA,NA,NA,3,NA,3,2,1,3,5,1,3,1,2,2,4
+"Estudiante","Facultad de Geología y Petróleos",9,5,5,5,4,1,4,NA,NA,NA,2,5,2,3,0,3,2,4,5,0,2,4,2
+"Estudiante","Facultad de Ciencias Administrativas",4,3,1,2,4,3,2,NA,NA,NA,3,1,5,2,1,2,4,5,2,1,NA,3,1
+"Estudiante","Facultad de Ciencias Administrativas",8,3,4,3,1,2,4,NA,NA,NA,4,1,1,4,1,3,2,2,5,0,2,4,2
+"Estudiante","Facultad de Ingeniería Mecánica",5,3,3,1,4,1,4,NA,NA,NA,3,2,3,3,NA,2,2,4,3,0,3,2,1
+"Estudiante","Facultad de Ciencias Administrativas",12,NA,1,NA,5,1,3,NA,NA,NA,2,5,1,3,0,1,3,3,2,0,5,2,3
+"Estudiante","Facultad de Ingeniería de Sistemas",15,1,2,2,2,2,1,NA,NA,NA,3,5,NA,5,NA,3,4,2,3,1,3,1,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",3,5,3,2,NA,NA,4,NA,NA,NA,1,2,3,3,1,3,4,3,2,1,3,3,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",6,4,1,1,3,0,3,NA,NA,NA,1,4,3,3,1,2,5,4,3,0,1,3,3
+"Estudiante","Facultad de Ciencias Administrativas",17,1,2,3,NA,3,NA,NA,NA,NA,2,1,4,5,0,1,5,1,3,0,2,2,2
+"Estudiante","Facultad de Ciencias Administrativas",5,3,2,5,4,1,4,NA,NA,NA,4,3,1,2,1,4,2,3,3,1,5,3,1
+"Estudiante","Facultad de Geología y Petróleos",6,2,2,4,3,2,3,NA,NA,NA,4,NA,1,NA,0,4,3,4,2,0,3,3,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",20,2,2,4,1,2,3,NA,NA,NA,1,NA,3,1,NA,2,2,1,5,1,3,1,2
+"Estudiante","Facultad de Geología y Petróleos",21,3,3,3,5,2,4,NA,NA,NA,5,NA,5,5,0,2,3,3,2,1,5,NA,1
+"Estudiante","Facultad de Ciencias Administrativas",9,2,5,4,3,2,2,NA,NA,NA,NA,2,4,3,1,4,1,2,3,1,NA,3,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",3,5,5,4,5,1,4,NA,NA,NA,3,3,4,5,0,2,3,2,4,1,4,3,3
+"Estudiante","Facultad de Ingeniería de Sistemas",9,3,3,3,3,2,3,NA,NA,NA,2,1,5,2,0,5,3,4,2,0,NA,3,3
+"Estudiante","Facultad de Ciencias Administrativas",4,4,2,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,1,1,3,5,4,5,1,4,1,3
+"Estudiante","Facultad de Ingeniería Mecánica",17,3,3,1,3,2,1,NA,NA,NA,3,NA,1,3,0,2,4,2,5,0,4,NA,1
+"Estudiante","Facultad de Geología y Petróleos",3,5,3,NA,3,1,3,NA,NA,NA,1,2,4,3,0,2,5,4,2,0,4,3,2
+"Estudiante","Facultad de Ingeniería Mecánica",10,2,5,1,4,2,NA,NA,NA,NA,4,4,1,3,0,4,1,4,4,1,NA,3,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",12,3,3,NA,2,1,4,NA,NA,NA,1,5,3,4,1,5,4,5,1,1,2,NA,3
+"Estudiante","Facultad de Geología y Petróleos",3,5,4,2,2,1,3,NA,NA,NA,1,NA,3,2,0,5,3,3,5,1,4,2,2
+"Estudiante","Facultad de Ciencias",13,1,3,2,1,1,3,NA,NA,NA,4,1,3,1,0,3,1,3,1,0,2,4,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",4,4,2,1,4,2,1,NA,NA,NA,NA,1,5,1,0,3,3,5,2,1,3,3,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",12,4,1,4,3,0,1,NA,NA,NA,3,2,3,4,0,4,3,5,2,0,5,5,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",15,2,3,2,1,0,1,NA,NA,NA,2,3,NA,3,0,1,5,2,2,0,5,4,4
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",2,3,NA,5,4,1,2,NA,NA,NA,5,3,NA,1,0,2,5,2,2,1,4,1,3
+"Estudiante","Facultad de Ingeniería de Sistemas",15,4,5,3,4,1,4,NA,NA,NA,3,4,2,3,0,2,1,1,3,1,3,3,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",5,4,3,1,NA,2,NA,NA,NA,NA,3,NA,2,1,1,4,4,2,5,0,5,3,3
+"Estudiante","Facultad de Ciencias Administrativas",10,5,5,4,3,3,3,NA,NA,NA,2,3,5,5,NA,2,3,3,2,0,1,5,2
+"Estudiante","Facultad de Ingeniería de Sistemas",9,4,NA,1,5,1,2,NA,NA,NA,2,1,NA,3,1,3,4,2,2,0,2,4,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",5,2,3,4,4,2,1,NA,NA,NA,4,3,3,4,0,1,1,3,5,1,3,2,2
+"Estudiante","Facultad de Ciencias",10,5,4,5,NA,1,3,NA,NA,NA,1,3,2,NA,0,5,1,2,4,1,4,5,4
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",1,4,2,1,4,2,1,NA,NA,NA,3,3,4,4,0,3,3,5,4,0,4,NA,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",7,3,1,3,2,1,3,NA,NA,NA,3,4,2,3,1,1,4,4,4,0,4,5,3
+"Estudiante","Facultad de Ingeniería Mecánica",13,3,5,2,4,3,4,NA,NA,NA,2,5,1,3,NA,5,3,1,1,0,4,1,1
+"Estudiante","Facultad de Ciencias Administrativas",5,5,3,4,1,0,4,NA,NA,NA,5,5,3,1,0,4,3,2,5,0,3,2,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",1,2,3,4,3,1,1,NA,NA,NA,4,1,4,4,1,2,5,1,2,1,4,4,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",1,4,2,5,3,1,3,NA,NA,NA,4,NA,3,4,1,4,2,5,2,1,2,2,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",2,2,3,4,2,2,4,NA,NA,NA,5,3,3,NA,1,3,5,5,5,1,4,4,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",11,4,3,3,3,2,4,NA,NA,NA,4,1,2,NA,0,3,3,2,3,1,3,NA,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",2,4,2,2,2,0,2,NA,NA,NA,4,4,5,2,0,4,4,1,3,1,2,2,4
+"Estudiante","Facultad de Geología y Petróleos",5,3,2,3,2,3,2,NA,NA,NA,4,5,3,2,NA,1,3,4,1,1,2,3,2
+"Estudiante","Facultad de Geología y Petróleos",4,4,3,3,1,0,3,NA,NA,NA,2,2,3,2,1,5,3,2,3,0,NA,2,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",6,2,2,3,4,0,2,NA,NA,NA,2,2,5,1,0,4,1,4,5,1,4,4,1
+"Estudiante","Facultad de Ingeniería de Sistemas",13,2,NA,4,1,3,1,NA,NA,NA,3,4,2,NA,1,3,5,2,3,0,3,2,3
+"Estudiante","Facultad de Ciencias",1,2,3,2,1,3,1,NA,NA,NA,NA,3,2,4,0,5,3,4,2,0,3,2,4
+"Estudiante","Facultad de Ciencias Administrativas",15,3,3,3,4,3,3,NA,NA,NA,1,2,5,2,1,3,4,4,5,1,NA,NA,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",10,3,NA,4,1,1,4,NA,NA,NA,2,2,4,1,0,1,4,4,3,1,3,3,1
+"Estudiante","Facultad de Ciencias Administrativas",10,3,3,4,5,2,1,NA,NA,NA,4,4,3,NA,0,1,1,4,3,0,5,1,2
+"Estudiante","Facultad de Geología y Petróleos",3,2,NA,NA,5,2,1,NA,NA,NA,4,NA,1,3,0,3,3,5,2,0,5,3,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",20,4,1,2,2,0,1,NA,NA,NA,1,5,1,3,NA,4,3,4,3,1,5,5,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",7,2,1,NA,5,3,4,NA,NA,NA,NA,2,4,5,0,3,1,5,2,1,2,1,2
+"Estudiante","Facultad de Ingeniería de Sistemas",3,1,4,1,2,1,NA,NA,NA,NA,4,1,1,2,1,5,1,3,2,1,NA,4,1
+"Estudiante","Facultad de Ciencias",7,NA,5,4,5,NA,NA,NA,NA,NA,4,5,5,3,1,5,5,2,3,1,4,4,2
+"Estudiante","Facultad de Ciencias Administrativas",4,3,3,3,4,NA,4,NA,NA,NA,3,1,2,1,0,5,4,1,3,0,5,3,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",6,4,3,3,3,2,1,NA,NA,NA,1,2,3,2,1,5,4,3,3,0,4,1,1
+"Estudiante","Facultad de Geología y Petróleos",5,2,3,2,2,2,1,NA,NA,NA,NA,3,5,3,0,3,1,3,2,0,3,5,2
+"Estudiante","Facultad de Ingeniería Mecánica",12,1,3,2,3,3,2,NA,NA,NA,3,3,3,1,1,3,4,4,2,1,3,5,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",14,4,NA,3,3,0,NA,NA,NA,NA,2,3,1,4,0,2,3,2,3,1,NA,2,3
+"Estudiante","Facultad de Geología y Petróleos",4,2,4,5,1,2,3,NA,NA,NA,2,1,NA,5,NA,2,2,5,3,1,3,3,3
+"Estudiante","Facultad de Ciencias Administrativas",13,3,3,2,4,2,2,NA,NA,NA,3,2,NA,NA,0,4,3,3,1,0,1,3,3
+"Estudiante","Facultad de Ingeniería Mecánica",17,3,1,NA,5,NA,1,NA,NA,NA,NA,NA,5,4,1,5,2,5,2,1,3,NA,2
+"Estudiante","Facultad de Geología y Petróleos",3,4,3,NA,4,1,3,NA,NA,NA,2,2,5,4,1,4,4,4,2,1,3,3,4
+"Estudiante","Facultad de Ciencias",4,2,4,4,4,2,1,NA,NA,NA,NA,4,1,1,0,4,5,4,4,1,4,2,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",12,2,1,3,3,NA,1,NA,NA,NA,3,4,NA,NA,1,4,2,2,4,1,2,5,3
+"Estudiante","Facultad de Ingeniería Mecánica",9,5,5,5,4,3,2,NA,NA,NA,2,NA,NA,1,NA,2,5,2,1,0,5,3,3
+"Estudiante","Facultad de Ciencias Administrativas",11,3,4,2,2,0,3,NA,NA,NA,4,3,2,3,1,5,3,3,1,1,2,2,4
+"Estudiante","Facultad de Ingeniería Mecánica",16,3,4,3,NA,1,3,NA,NA,NA,NA,2,3,4,0,3,2,4,3,1,4,3,1
+"Estudiante","Facultad de Ciencias",10,5,5,5,3,NA,1,NA,NA,NA,3,3,1,5,1,2,1,5,3,0,2,4,3
+"Estudiante","Facultad de Ingeniería de Sistemas",14,3,2,1,5,3,1,NA,NA,NA,2,2,3,4,1,1,3,3,3,0,3,5,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",12,5,3,1,4,0,2,NA,NA,NA,3,1,5,3,1,5,3,3,5,0,3,4,1
+"Estudiante","Facultad de Ciencias Administrativas",11,3,NA,5,5,2,3,NA,NA,NA,3,3,1,2,1,3,3,3,3,0,3,5,1
+"Estudiante","Facultad de Ingeniería Mecánica",10,5,NA,1,4,NA,4,NA,NA,NA,2,1,1,5,0,1,1,3,4,1,5,1,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",16,5,3,1,3,0,NA,NA,NA,NA,5,3,3,4,0,3,5,3,4,0,3,3,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",2,1,3,2,4,0,4,NA,NA,NA,4,3,5,4,0,5,4,2,4,1,3,NA,3
+"Estudiante","Facultad de Geología y Petróleos",1,2,4,1,5,0,2,NA,NA,NA,3,2,NA,2,0,5,3,4,4,1,4,5,2
+"Estudiante","Facultad de Ciencias Administrativas",12,2,4,4,5,2,1,NA,NA,NA,1,4,NA,3,0,2,2,2,3,0,5,NA,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",7,NA,5,3,2,1,NA,NA,NA,NA,2,5,2,3,1,1,5,4,3,1,5,5,1
+"Estudiante","Facultad de Ciencias Administrativas",8,2,4,NA,5,NA,3,NA,NA,NA,4,5,3,3,1,1,3,3,5,0,4,1,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",12,NA,2,4,NA,NA,2,NA,NA,NA,2,5,3,2,0,5,5,5,3,0,5,4,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",13,4,1,5,4,2,4,NA,NA,NA,2,3,3,2,0,3,4,4,5,0,1,1,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",6,4,5,5,5,2,1,NA,NA,NA,5,5,5,3,0,5,4,2,5,1,5,3,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",6,5,2,1,3,0,4,NA,NA,NA,5,2,4,2,0,3,3,2,1,0,3,5,1
+"Estudiante","Facultad de Ciencias",8,NA,1,1,4,1,1,NA,NA,NA,1,5,4,2,0,2,5,4,1,1,5,3,2
+"Estudiante","Facultad de Ciencias Administrativas",14,2,3,2,5,0,2,NA,NA,NA,5,NA,3,4,1,4,1,3,2,1,3,3,2
+"Estudiante","Facultad de Ingeniería de Sistemas",11,2,1,1,3,1,1,NA,NA,NA,3,1,2,3,NA,4,5,2,5,1,3,4,4
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",17,NA,2,4,1,2,4,NA,NA,NA,5,4,2,2,0,3,3,3,4,1,2,3,2
+"Estudiante","Facultad de Ingeniería Mecánica",8,4,2,1,2,0,4,NA,NA,NA,3,1,4,NA,0,1,3,3,5,0,1,5,4
+"Estudiante","Facultad de Ingeniería Mecánica",15,3,1,3,NA,NA,NA,NA,NA,NA,4,NA,3,5,0,4,4,5,4,1,4,3,3
+"Estudiante","Facultad de Ingeniería de Sistemas",13,1,5,2,2,1,1,NA,NA,NA,3,2,2,2,0,1,4,1,3,0,3,3,3
+"Estudiante","Facultad de Ciencias Administrativas",12,1,4,3,4,1,3,NA,NA,NA,4,3,4,3,1,3,4,2,1,0,5,3,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",10,2,3,5,2,NA,1,NA,NA,NA,NA,3,1,4,0,1,3,2,3,1,NA,4,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",6,3,4,3,3,1,4,NA,NA,NA,2,4,4,4,0,3,4,2,3,0,3,4,3
+"Estudiante","Facultad de Geología y Petróleos",7,1,NA,1,4,0,2,NA,NA,NA,4,5,5,2,0,2,3,4,1,1,2,NA,4
+"Estudiante","Facultad de Ingeniería Mecánica",9,2,2,2,1,0,3,NA,NA,NA,3,4,5,5,NA,3,3,3,3,1,2,NA,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",8,NA,2,3,5,1,2,NA,NA,NA,4,3,1,3,0,3,5,4,3,1,3,5,1
+"Estudiante","Facultad de Ingeniería de Sistemas",14,4,4,3,4,1,1,NA,NA,NA,4,5,3,NA,0,2,3,5,2,1,2,1,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",7,2,4,3,1,2,4,NA,NA,NA,2,4,3,5,1,3,3,1,4,0,1,4,2
+"Estudiante","Facultad de Ciencias Administrativas",8,3,2,1,5,2,2,NA,NA,NA,3,NA,4,4,1,2,1,3,3,1,4,4,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",5,3,3,1,2,3,4,NA,NA,NA,2,3,2,3,0,1,5,2,3,1,1,3,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",7,4,4,3,2,0,3,NA,NA,NA,5,3,NA,2,1,3,5,3,2,0,2,2,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",8,2,1,1,2,3,2,NA,NA,NA,NA,4,2,3,1,2,2,2,2,0,3,4,4
+"Estudiante","Facultad de Ciencias",6,3,3,2,3,NA,4,NA,NA,NA,4,3,5,2,1,5,1,4,4,1,4,2,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",0,NA,2,3,NA,0,3,NA,NA,NA,3,NA,5,NA,1,2,4,2,5,0,3,4,1
+"Estudiante","Facultad de Geología y Petróleos",8,5,1,3,5,0,4,NA,NA,NA,5,5,3,3,1,2,5,2,5,0,3,2,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",6,5,NA,3,5,3,2,NA,NA,NA,1,NA,2,2,1,4,1,5,3,0,3,5,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",1,3,4,2,3,2,3,NA,NA,NA,5,5,5,NA,1,3,5,4,1,0,4,3,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",4,NA,2,3,NA,0,NA,NA,NA,NA,4,NA,4,2,1,3,2,3,3,1,2,4,4
+"Estudiante","Facultad de Geología y Petróleos",6,3,NA,2,4,NA,2,NA,NA,NA,3,2,1,4,0,3,1,3,3,0,5,3,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",12,4,4,1,4,NA,2,NA,NA,NA,5,NA,3,3,0,2,5,3,3,1,5,2,2
+"Estudiante","Facultad de Ciencias",19,3,1,5,4,0,4,NA,NA,NA,4,2,2,5,0,3,5,2,1,0,3,3,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",8,4,1,1,5,1,3,NA,NA,NA,NA,NA,2,3,1,2,4,2,5,0,5,5,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",17,4,4,NA,5,1,3,NA,NA,NA,2,4,5,5,0,1,4,2,2,1,1,NA,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",8,4,3,2,3,2,NA,NA,NA,NA,4,4,5,3,1,5,5,5,2,0,2,2,1
+"Estudiante","Facultad de Geología y Petróleos",9,3,3,2,3,2,4,NA,NA,NA,2,3,1,2,NA,3,3,5,1,1,4,NA,1
+"Estudiante","Facultad de Geología y Petróleos",10,2,1,3,4,0,2,NA,NA,NA,2,2,3,3,1,4,1,4,3,0,5,5,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",3,NA,2,3,4,1,2,NA,NA,NA,1,2,4,NA,NA,3,4,3,3,0,2,3,3
+"Estudiante","Facultad de Ingeniería Mecánica",8,NA,NA,3,1,3,4,NA,NA,NA,3,5,5,NA,1,3,5,1,1,0,3,NA,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",13,4,2,NA,3,1,2,NA,NA,NA,5,4,1,1,NA,3,5,5,5,0,NA,2,4
+"Estudiante","Facultad de Ciencias",4,3,4,4,3,0,3,NA,NA,NA,5,1,3,NA,0,2,1,4,5,0,NA,4,4
+"Estudiante","Facultad de Ingeniería de Sistemas",6,NA,3,3,3,0,3,NA,NA,NA,2,3,3,2,1,5,4,3,2,0,4,NA,2
+"Estudiante","Facultad de Ciencias Administrativas",1,NA,3,2,5,3,4,NA,NA,NA,4,1,1,4,1,3,3,3,3,0,NA,NA,3
+"Estudiante","Facultad de Geología y Petróleos",10,NA,2,NA,3,2,3,NA,NA,NA,2,4,3,3,0,1,3,2,4,1,NA,NA,3
+"Estudiante","Facultad de Ingeniería de Sistemas",11,4,3,4,3,1,2,NA,NA,NA,3,4,1,3,1,5,1,1,3,0,3,5,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",12,4,3,1,4,0,1,NA,NA,NA,4,5,5,4,1,4,3,4,3,0,NA,NA,2
+"Estudiante","Facultad de Ciencias Administrativas",1,1,5,1,5,3,4,NA,NA,NA,NA,3,3,4,1,2,1,5,4,0,4,NA,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",9,1,5,2,3,1,3,NA,NA,NA,4,4,2,NA,0,1,5,4,2,1,5,4,3
+"Estudiante","Facultad de Geología y Petróleos",2,NA,4,3,5,0,1,NA,NA,NA,3,3,4,5,0,5,2,3,3,0,3,1,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",8,4,3,5,1,2,4,NA,NA,NA,2,3,2,3,0,2,2,2,1,1,5,2,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",16,5,4,5,3,3,NA,NA,NA,NA,NA,NA,4,4,0,4,5,4,4,1,2,3,3
+"Estudiante","Facultad de Ingeniería de Sistemas",5,1,5,2,5,0,1,NA,NA,NA,3,2,4,5,1,1,4,2,2,1,3,5,1
+"Estudiante","Facultad de Geología y Petróleos",12,3,2,4,NA,2,2,NA,NA,NA,2,4,1,NA,0,2,3,2,1,1,3,3,3
+"Estudiante","Facultad de Ciencias",4,3,2,1,4,2,3,NA,NA,NA,2,5,3,4,1,5,5,3,2,1,4,2,4
+"Estudiante","Facultad de Ingeniería Mecánica",5,NA,3,4,NA,1,4,NA,NA,NA,2,2,4,3,0,3,3,1,3,0,4,4,3
+"Estudiante","Facultad de Geología y Petróleos",11,NA,2,2,1,0,1,NA,NA,NA,4,4,NA,3,0,2,2,3,2,0,3,2,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",4,5,3,2,4,NA,3,NA,NA,NA,4,4,4,2,1,5,3,3,4,1,4,5,1
+"Estudiante","Facultad de Ingeniería de Sistemas",2,3,5,NA,1,3,NA,NA,NA,NA,3,2,NA,3,1,3,1,5,4,1,5,4,3
+"Estudiante","Facultad de Ciencias Administrativas",16,3,2,1,2,1,2,NA,NA,NA,1,NA,1,4,0,4,1,3,1,0,4,3,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",10,3,1,1,5,1,3,NA,NA,NA,5,5,1,1,1,2,3,2,3,1,3,4,1
+"Estudiante","Facultad de Geología y Petróleos",4,5,5,4,4,3,NA,NA,NA,NA,5,NA,1,5,1,2,4,4,3,1,4,3,3
+"Estudiante","Facultad de Geología y Petróleos",4,NA,NA,1,4,1,NA,NA,NA,NA,4,1,2,3,1,5,2,2,1,0,5,NA,1
+"Estudiante","Facultad de Ingeniería Mecánica",19,4,5,1,4,0,1,NA,NA,NA,3,3,2,3,NA,2,1,4,4,1,2,5,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",28,5,2,4,1,1,4,NA,NA,NA,NA,5,1,NA,1,2,1,5,2,0,2,4,1
+"Estudiante","Facultad de Ciencias Administrativas",9,3,2,5,4,0,2,NA,NA,NA,5,3,5,4,0,5,3,4,2,0,5,3,1
+"Estudiante","Facultad de Ingeniería de Sistemas",13,NA,4,NA,3,0,1,NA,NA,NA,3,3,NA,5,0,2,4,3,2,1,3,3,1
+"Estudiante","Facultad de Geología y Petróleos",15,2,2,5,4,2,3,NA,NA,NA,4,4,5,2,0,5,5,3,2,0,4,5,1
+"Estudiante","Facultad de Ciencias",4,5,5,3,2,1,NA,NA,NA,NA,4,5,4,1,0,4,4,3,2,0,3,3,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",6,4,NA,2,3,3,4,NA,NA,NA,4,3,5,3,0,4,4,3,3,0,2,2,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",2,3,4,3,5,2,3,NA,NA,NA,1,NA,3,2,0,5,3,5,3,0,1,5,3
+"Estudiante","Facultad de Ciencias",4,3,4,3,NA,3,3,NA,NA,NA,NA,4,2,2,1,3,1,4,3,0,4,3,4
+"Estudiante","Facultad de Ciencias",12,2,NA,1,4,0,1,NA,NA,NA,1,4,1,1,0,1,3,3,5,1,2,2,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",6,4,1,1,NA,0,2,NA,NA,NA,NA,5,NA,2,1,4,3,3,3,0,3,4,3
+"Estudiante","Facultad de Ciencias Administrativas",7,4,1,4,NA,NA,4,NA,NA,NA,3,4,1,1,1,3,4,3,3,1,1,4,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",7,2,3,3,1,0,NA,NA,NA,NA,5,2,4,2,NA,5,1,4,1,0,2,3,4
+"Estudiante","Facultad de Ingeniería Mecánica",3,2,2,1,5,0,1,NA,NA,NA,1,NA,4,3,1,2,4,3,1,1,1,5,2
+"Estudiante","Facultad de Ingeniería de Sistemas",13,1,2,2,3,0,4,NA,NA,NA,4,5,5,4,0,4,3,3,4,0,4,4,1
+"Estudiante","Facultad de Geología y Petróleos",1,4,3,NA,2,3,2,NA,NA,NA,5,1,2,2,0,5,1,3,3,0,2,4,3
+"Estudiante","Facultad de Ciencias Administrativas",7,4,4,1,1,0,3,NA,NA,NA,5,3,2,NA,1,5,1,2,3,1,1,5,3
+"Estudiante","Facultad de Ciencias Administrativas",5,3,1,NA,3,0,1,NA,NA,NA,3,4,2,3,1,4,2,5,3,1,NA,4,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",7,NA,NA,3,5,3,2,NA,NA,NA,NA,4,4,NA,0,3,5,4,3,1,2,3,1
+"Estudiante","Facultad de Ingeniería Mecánica",17,NA,4,1,NA,NA,4,NA,NA,NA,2,3,4,5,1,3,4,4,2,0,2,2,2
+"Estudiante","Facultad de Ingeniería de Sistemas",5,2,3,2,3,3,1,NA,NA,NA,3,3,4,4,0,2,3,3,4,1,1,3,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",3,2,3,3,NA,3,2,NA,NA,NA,1,5,3,4,1,1,2,4,2,0,4,2,1
+"Estudiante","Facultad de Ciencias Administrativas",1,3,4,3,1,2,NA,NA,NA,NA,2,1,2,3,NA,5,3,5,2,0,1,4,4
+"Estudiante","Facultad de Ciencias",3,2,3,2,4,3,2,NA,NA,NA,1,5,3,5,1,4,1,4,2,0,1,3,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",1,1,4,2,1,2,2,NA,NA,NA,4,5,5,1,NA,4,5,3,1,1,3,NA,2
+"Estudiante","Facultad de Ingeniería de Sistemas",10,3,4,4,NA,3,2,NA,NA,NA,3,NA,1,2,1,1,3,4,2,1,3,NA,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",3,2,1,1,2,1,2,NA,NA,NA,5,NA,1,NA,1,4,4,1,4,1,5,4,2
+"Estudiante","Facultad de Ingeniería Mecánica",10,3,3,3,2,0,1,NA,NA,NA,5,4,2,1,1,3,4,5,3,1,2,3,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",7,4,NA,1,5,3,1,NA,NA,NA,2,5,NA,2,1,5,3,1,2,1,2,5,3
+"Estudiante","Facultad de Ciencias",1,3,2,5,4,NA,3,NA,NA,NA,2,3,2,3,0,5,1,1,1,0,2,2,4
+"Estudiante","Facultad de Ciencias Administrativas",3,4,1,4,1,2,NA,NA,NA,NA,3,4,2,3,1,5,1,1,3,1,1,3,1
+"Estudiante","Facultad de Ingeniería de Sistemas",13,3,3,4,3,0,4,NA,NA,NA,1,3,NA,1,0,3,5,5,3,0,NA,4,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",13,3,3,2,3,NA,2,NA,NA,NA,2,5,NA,5,1,3,5,1,4,1,2,4,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",20,2,5,2,5,0,2,NA,NA,NA,3,1,1,2,1,4,5,3,5,1,5,4,1
+"Estudiante","Facultad de Ingeniería de Sistemas",8,2,3,1,4,3,3,NA,NA,NA,3,NA,2,NA,0,3,5,3,5,1,5,4,4
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",1,NA,1,4,NA,2,NA,NA,NA,NA,NA,4,3,4,NA,3,2,3,5,1,4,3,1
+"Estudiante","Facultad de Ciencias",3,NA,3,3,2,3,4,NA,NA,NA,5,NA,3,1,1,3,1,2,3,0,4,4,4
+"Estudiante","Facultad de Geología y Petróleos",10,4,4,2,5,2,2,NA,NA,NA,3,4,4,3,1,3,4,3,3,0,2,3,2
+"Estudiante","Facultad de Ciencias",19,2,1,3,4,3,NA,NA,NA,NA,2,4,5,3,0,5,2,3,2,0,5,NA,2
+"Estudiante","Facultad de Geología y Petróleos",9,1,2,1,1,3,2,NA,NA,NA,5,2,3,3,NA,3,3,2,2,1,5,2,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",15,2,4,4,1,1,4,NA,NA,NA,5,NA,2,1,1,2,4,5,3,1,3,5,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",13,4,4,2,4,NA,NA,NA,NA,NA,4,3,4,2,1,3,4,4,5,1,NA,4,1
+"Estudiante","Facultad de Geología y Petróleos",1,1,2,5,5,2,2,NA,NA,NA,5,2,5,3,1,5,3,3,4,0,4,3,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",7,5,1,3,3,3,2,NA,NA,NA,4,3,1,3,1,5,4,3,4,0,4,5,3
+"Estudiante","Facultad de Ingeniería Mecánica",16,3,2,2,2,0,2,NA,NA,NA,3,NA,3,3,0,2,3,2,1,1,4,4,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",13,3,2,4,NA,0,4,NA,NA,NA,5,3,NA,5,1,4,5,2,3,1,3,NA,2
+"Estudiante","Facultad de Geología y Petróleos",11,4,1,4,5,3,NA,NA,NA,NA,1,4,4,3,0,1,2,4,3,1,2,3,1
+"Estudiante","Facultad de Ciencias Administrativas",11,2,3,5,4,NA,1,NA,NA,NA,4,2,4,4,1,2,5,3,3,1,3,3,1
+"Estudiante","Facultad de Ciencias",5,5,1,3,1,2,2,NA,NA,NA,3,5,5,3,1,1,3,1,5,0,4,3,1
+"Estudiante","Facultad de Geología y Petróleos",0,1,3,1,1,3,1,NA,NA,NA,NA,4,2,3,1,4,5,3,4,0,3,2,1
+"Estudiante","Facultad de Ciencias",16,NA,3,4,5,1,3,NA,NA,NA,2,3,3,3,0,1,2,1,4,1,3,3,3
+"Estudiante","Facultad de Ciencias",1,4,3,1,3,0,1,NA,NA,NA,3,1,3,2,1,5,1,2,4,0,3,3,4
+"Estudiante","Facultad de Ingeniería Mecánica",2,5,3,2,1,0,4,NA,NA,NA,2,2,3,NA,0,2,5,5,4,1,NA,4,2
+"Estudiante","Facultad de Ciencias",12,3,3,4,5,1,3,NA,NA,NA,3,2,3,4,1,3,3,2,5,0,4,3,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",0,3,1,1,3,1,4,NA,NA,NA,3,2,1,3,0,3,3,4,4,1,2,NA,3
+"Estudiante","Facultad de Geología y Petróleos",5,3,2,4,2,2,NA,NA,NA,NA,4,1,3,2,0,5,2,3,5,1,1,4,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",1,5,5,NA,4,1,2,NA,NA,NA,2,4,3,5,1,1,4,3,5,1,NA,3,1
+"Estudiante","Facultad de Ciencias",12,5,NA,3,5,2,2,NA,NA,NA,5,2,4,NA,0,4,5,5,2,0,4,5,3
+"Estudiante","Facultad de Ciencias",11,5,2,3,2,2,2,NA,NA,NA,3,1,3,3,0,2,2,2,4,1,2,4,1
+"Estudiante","Facultad de Ciencias Administrativas",11,3,5,NA,4,2,2,NA,NA,NA,2,5,3,1,1,4,5,2,5,1,3,2,4
+"Estudiante","Facultad de Ciencias Administrativas",11,3,4,4,4,2,3,NA,NA,NA,3,3,NA,1,0,4,3,1,1,1,3,4,3
+"Estudiante","Facultad de Ingeniería de Sistemas",11,4,2,2,3,1,1,NA,NA,NA,3,3,4,3,1,5,3,2,4,1,3,5,1
+"Estudiante","Facultad de Ingeniería de Sistemas",12,5,3,3,5,0,3,NA,NA,NA,4,2,3,2,0,3,5,3,2,1,5,3,2
+"Estudiante","Facultad de Ingeniería Mecánica",4,4,2,3,5,3,1,NA,NA,NA,1,3,4,2,1,5,2,3,3,1,2,2,4
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",7,2,3,2,2,2,3,NA,NA,NA,4,3,4,2,1,1,4,4,4,1,3,NA,3
+"Estudiante","Facultad de Ingeniería Mecánica",9,2,4,NA,NA,0,2,NA,NA,NA,4,2,3,3,1,2,3,3,1,0,2,5,2
+"Estudiante","Facultad de Geología y Petróleos",12,2,NA,NA,3,NA,4,NA,NA,NA,5,NA,5,1,1,1,5,2,1,1,NA,4,1
+"Estudiante","Facultad de Ciencias Administrativas",1,2,3,4,2,1,2,NA,NA,NA,3,4,4,1,0,2,2,3,3,1,3,NA,4
+"Estudiante","Facultad de Ingeniería Mecánica",5,4,NA,4,4,0,4,NA,NA,NA,3,NA,1,1,1,4,2,3,4,1,2,2,3
+"Estudiante","Facultad de Ingeniería de Sistemas",2,4,2,5,3,3,2,NA,NA,NA,3,3,5,3,1,1,1,2,1,0,2,2,1
+"Estudiante","Facultad de Ingeniería Mecánica",14,2,3,3,4,3,3,NA,NA,NA,4,2,1,5,0,3,1,1,3,0,NA,5,3
+"Estudiante","Facultad de Ciencias",16,4,3,3,2,2,3,NA,NA,NA,3,3,3,5,0,4,2,5,3,1,4,2,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",13,4,5,4,1,0,2,NA,NA,NA,1,NA,3,3,0,3,2,3,2,1,4,2,2
+"Estudiante","Facultad de Ingeniería de Sistemas",1,1,2,NA,3,1,4,NA,NA,NA,2,NA,3,4,0,2,3,3,4,1,4,NA,2
+"Estudiante","Facultad de Ingeniería Mecánica",11,1,1,2,3,3,1,NA,NA,NA,NA,4,1,1,1,2,2,1,3,0,2,3,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",15,2,5,2,5,3,NA,NA,NA,NA,3,1,5,3,0,5,3,4,5,0,3,1,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",9,4,3,1,1,3,4,NA,NA,NA,5,2,2,5,0,5,2,4,1,0,2,2,4
+"Estudiante","Facultad de Ciencias Administrativas",5,3,5,5,2,2,4,NA,NA,NA,5,NA,1,1,0,3,1,1,3,1,2,3,2
+"Estudiante","Facultad de Ciencias",1,3,2,3,4,NA,4,NA,NA,NA,3,3,1,3,0,5,1,2,2,0,2,5,2
+"Estudiante","Facultad de Ingeniería Mecánica",4,4,4,4,4,2,1,NA,NA,NA,4,4,1,NA,1,1,3,3,3,0,NA,4,2
+"Estudiante","Facultad de Geología y Petróleos",12,5,5,5,3,1,2,NA,NA,NA,2,3,3,3,1,3,3,2,2,0,5,4,4
+"Estudiante","Facultad de Ciencias Administrativas",5,5,1,NA,1,0,1,NA,NA,NA,3,3,NA,3,0,2,3,2,3,1,4,NA,4
+"Estudiante","Facultad de Ciencias",9,4,5,1,5,0,2,NA,NA,NA,2,NA,3,1,0,1,3,2,3,1,3,5,2
+"Estudiante","Facultad de Ciencias Administrativas",16,1,NA,1,3,0,3,NA,NA,NA,5,3,3,3,0,3,3,5,1,1,4,2,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",11,1,3,3,2,2,4,NA,NA,NA,4,3,1,1,1,5,1,5,2,0,3,3,2
+"Estudiante","Facultad de Ciencias",16,2,3,5,2,1,2,NA,NA,NA,NA,2,3,4,0,1,2,4,2,1,4,3,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",2,3,3,5,5,NA,NA,NA,NA,NA,3,5,2,4,1,4,2,4,2,0,3,3,3
+"Estudiante","Facultad de Ciencias Administrativas",6,2,5,1,5,0,4,NA,NA,NA,3,1,2,1,1,4,4,4,4,1,4,5,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",8,4,4,2,1,0,2,NA,NA,NA,2,2,5,NA,1,2,3,3,3,0,2,NA,2
+"Estudiante","Facultad de Ciencias Administrativas",11,5,4,2,1,2,4,NA,NA,NA,2,3,5,4,1,2,2,3,3,1,4,1,4
+"Estudiante","Facultad de Ciencias Administrativas",1,4,3,4,1,0,4,NA,NA,NA,4,4,3,1,1,3,4,2,4,1,3,2,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",13,1,3,3,3,0,2,NA,NA,NA,4,5,4,5,0,3,5,2,5,0,3,5,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",10,5,3,2,5,NA,1,NA,NA,NA,NA,3,3,3,0,2,4,2,2,0,4,1,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",10,3,1,2,3,NA,2,NA,NA,NA,2,1,2,1,1,5,1,2,4,1,NA,NA,2
+"Estudiante","Facultad de Ciencias Administrativas",11,2,5,5,3,NA,1,NA,NA,NA,NA,2,NA,4,1,4,3,4,4,0,5,2,3
+"Estudiante","Facultad de Ingeniería Mecánica",7,5,4,3,4,2,2,NA,NA,NA,3,3,3,3,1,4,3,1,5,0,3,3,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",14,3,3,NA,4,3,2,NA,NA,NA,NA,4,2,2,0,2,2,5,3,1,3,1,4
+"Estudiante","Facultad de Ciencias",12,3,3,1,NA,0,2,NA,NA,NA,2,1,5,4,1,3,5,2,3,0,2,5,4
+"Estudiante","Facultad de Geología y Petróleos",7,1,3,5,4,0,NA,NA,NA,NA,4,NA,4,NA,NA,1,3,1,3,1,3,2,4
+"Estudiante","Facultad de Geología y Petróleos",14,3,5,3,1,0,1,NA,NA,NA,NA,5,5,5,0,1,2,4,3,1,NA,2,3
+"Estudiante","Facultad de Ingeniería de Sistemas",10,3,2,2,NA,3,2,NA,NA,NA,4,5,4,2,0,2,4,2,5,1,2,4,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",12,5,1,3,3,0,NA,NA,NA,NA,3,1,5,NA,0,2,3,2,4,1,4,4,2
+"Estudiante","Facultad de Ingeniería Mecánica",4,4,2,1,3,2,2,NA,NA,NA,3,2,4,5,0,3,5,3,2,0,4,3,2
+"Estudiante","Facultad de Geología y Petróleos",17,4,2,3,2,3,3,NA,NA,NA,1,5,3,4,0,2,3,4,5,1,5,4,4
+"Estudiante","Facultad de Ingeniería de Sistemas",8,5,3,2,5,0,2,NA,NA,NA,1,1,3,2,1,3,2,4,3,0,4,3,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",13,4,2,5,3,0,4,NA,NA,NA,3,2,5,5,1,3,3,3,5,1,2,2,3
+"Estudiante","Facultad de Ingeniería de Sistemas",7,5,4,2,1,0,3,NA,NA,NA,NA,NA,3,2,0,1,3,3,4,1,4,5,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",6,3,5,3,NA,0,4,NA,NA,NA,3,1,3,4,0,2,3,3,5,0,5,4,4
+"Estudiante","Facultad de Ingeniería Mecánica",13,1,3,4,4,3,2,NA,NA,NA,4,4,NA,1,0,2,5,1,3,1,2,4,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",2,1,4,4,2,3,3,NA,NA,NA,3,2,4,4,1,3,1,5,1,0,2,1,1
+"Estudiante","Facultad de Ciencias",11,NA,2,3,3,2,1,NA,NA,NA,3,4,4,3,1,3,5,3,4,0,4,NA,4
+"Estudiante","Facultad de Ciencias",10,5,5,5,3,1,1,NA,NA,NA,2,5,1,4,1,1,3,2,5,0,3,3,4
+"Estudiante","Facultad de Ingeniería Mecánica",8,2,2,5,NA,1,1,NA,NA,NA,2,1,4,2,1,3,3,2,3,1,1,2,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",10,2,2,3,3,1,1,NA,NA,NA,NA,2,3,1,0,1,3,3,2,0,1,3,2
+"Estudiante","Facultad de Geología y Petróleos",5,3,5,3,4,3,4,NA,NA,NA,2,4,NA,3,NA,1,5,3,5,0,NA,3,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",12,5,3,4,1,2,2,NA,NA,NA,5,1,NA,2,1,3,1,4,2,0,3,2,1
+"Estudiante","Facultad de Ingeniería de Sistemas",5,NA,2,3,3,1,1,NA,NA,NA,5,2,NA,2,0,3,5,5,3,1,3,3,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",4,3,3,2,2,3,2,NA,NA,NA,4,2,2,3,0,4,3,1,3,0,NA,2,2
+"Estudiante","Facultad de Ciencias",8,5,2,3,3,0,1,NA,NA,NA,4,2,4,1,1,4,4,3,3,0,5,2,4
+"Estudiante","Facultad de Ingeniería Mecánica",16,NA,1,3,4,0,2,NA,NA,NA,5,NA,4,3,1,3,4,4,3,1,1,1,4
+"Estudiante","Facultad de Ingeniería Mecánica",4,3,1,4,4,3,3,NA,NA,NA,NA,3,3,1,1,3,3,2,1,1,1,4,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",11,1,4,2,4,3,4,NA,NA,NA,2,NA,1,3,0,5,3,2,5,1,4,3,4
+"Estudiante","Facultad de Ingeniería Mecánica",10,5,4,5,4,2,1,NA,NA,NA,4,1,3,3,1,2,3,2,2,0,4,NA,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",1,2,1,3,3,0,1,NA,NA,NA,3,5,2,5,1,3,3,3,2,0,3,3,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",2,3,5,4,NA,2,3,NA,NA,NA,4,2,2,5,0,4,1,3,4,0,4,2,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",4,5,NA,1,5,2,4,NA,NA,NA,NA,4,3,3,1,1,3,2,5,0,2,3,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",11,5,NA,4,3,0,4,NA,NA,NA,1,2,1,NA,1,2,3,3,3,0,4,3,4
+"Estudiante","Facultad de Ingeniería de Sistemas",8,2,3,1,3,1,2,NA,NA,NA,2,1,2,5,1,3,4,3,5,0,3,4,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",19,3,5,5,3,2,2,NA,NA,NA,3,5,4,NA,1,4,1,1,2,0,3,1,1
+"Estudiante","Facultad de Ingeniería Mecánica",11,3,2,1,1,2,1,NA,NA,NA,NA,3,2,4,0,1,2,4,5,1,4,1,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",13,2,1,3,3,0,1,NA,NA,NA,4,5,2,3,1,2,4,2,3,0,5,3,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",16,3,1,5,2,1,2,NA,NA,NA,3,4,5,5,1,3,4,2,1,0,3,4,4
+"Estudiante","Facultad de Ciencias",5,4,2,2,5,0,NA,NA,NA,NA,3,4,2,4,0,5,2,2,4,1,3,4,1
+"Estudiante","Facultad de Ciencias Administrativas",11,4,2,2,3,1,NA,NA,NA,NA,4,3,3,5,1,5,4,4,5,0,3,5,3
+"Estudiante","Facultad de Ingeniería de Sistemas",13,3,4,3,2,1,4,NA,NA,NA,2,3,1,3,1,2,2,4,4,1,5,4,4
+"Estudiante","Facultad de Ingeniería de Sistemas",16,1,5,5,4,0,2,NA,NA,NA,4,3,3,4,1,2,5,2,2,1,NA,3,4
+"Estudiante","Facultad de Ciencias Administrativas",13,5,1,4,5,0,1,NA,NA,NA,2,4,3,2,0,1,4,3,3,1,5,5,1
+"Estudiante","Facultad de Ciencias",11,3,2,5,3,3,4,NA,NA,NA,NA,NA,5,NA,0,3,2,3,3,1,2,2,3
+"Estudiante","Facultad de Ciencias",3,5,3,4,2,3,2,NA,NA,NA,1,1,3,3,0,5,3,4,5,0,2,4,1
+"Estudiante","Facultad de Ciencias Administrativas",12,4,5,1,5,1,2,NA,NA,NA,1,2,4,3,1,4,1,2,1,0,3,4,2
+"Estudiante","Facultad de Geología y Petróleos",11,2,1,5,2,0,4,NA,NA,NA,2,3,3,1,1,2,3,2,4,1,1,1,2
+"Estudiante","Facultad de Ciencias",12,3,4,4,4,1,2,NA,NA,NA,3,2,1,3,1,3,1,3,2,1,NA,5,4
+"Estudiante","Facultad de Ingeniería de Sistemas",11,3,3,1,5,1,NA,NA,NA,NA,3,3,5,3,1,1,3,1,2,1,2,3,2
+"Estudiante","Facultad de Ingeniería de Sistemas",7,3,2,4,NA,3,2,NA,NA,NA,5,5,4,2,1,5,3,5,1,0,2,4,3
+"Estudiante","Facultad de Geología y Petróleos",8,4,1,3,4,2,3,NA,NA,NA,1,1,3,3,NA,4,3,2,3,0,5,2,1
+"Estudiante","Facultad de Geología y Petróleos",12,3,4,3,NA,2,4,NA,NA,NA,3,5,3,3,1,3,3,3,2,1,5,2,1
+"Estudiante","Facultad de Ingeniería Mecánica",9,3,3,2,4,0,1,NA,NA,NA,NA,4,3,2,NA,4,1,1,3,0,4,3,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",3,1,2,NA,2,NA,1,NA,NA,NA,4,1,3,4,1,3,3,2,3,1,5,4,4
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",6,1,3,2,5,NA,2,NA,NA,NA,2,4,3,3,1,2,4,5,3,0,2,1,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",0,5,4,5,3,2,NA,NA,NA,NA,2,4,1,2,0,2,1,4,5,1,3,2,2
+"Estudiante","Facultad de Ingeniería Mecánica",2,4,5,4,1,1,3,NA,NA,NA,4,4,1,2,0,3,3,2,3,0,4,5,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",7,5,3,2,4,0,2,NA,NA,NA,3,4,3,3,1,5,3,3,3,1,5,NA,1
+"Estudiante","Facultad de Ciencias Administrativas",3,5,5,2,2,3,2,NA,NA,NA,3,2,5,3,1,2,2,3,4,1,4,3,3
+"Estudiante","Facultad de Ciencias Administrativas",2,1,3,4,4,1,4,NA,NA,NA,3,1,4,1,0,3,4,2,2,0,4,5,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",15,5,5,2,1,NA,3,NA,NA,NA,NA,5,1,2,NA,3,4,1,5,0,3,5,4
+"Estudiante","Facultad de Geología y Petróleos",5,2,4,3,NA,0,2,NA,NA,NA,2,2,3,5,0,3,3,1,3,1,3,3,3
+"Estudiante","Facultad de Ciencias",3,2,4,2,4,2,3,NA,NA,NA,3,4,2,3,1,4,4,3,2,1,3,NA,2
+"Estudiante","Facultad de Geología y Petróleos",7,5,4,2,2,0,4,NA,NA,NA,3,3,1,4,0,4,3,3,1,0,1,3,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",16,2,4,NA,2,0,2,NA,NA,NA,2,3,2,5,1,4,2,1,3,1,4,NA,3
+"Estudiante","Facultad de Ingeniería de Sistemas",12,4,4,NA,1,0,1,NA,NA,NA,4,1,NA,3,NA,1,5,3,3,1,5,4,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",11,NA,1,NA,NA,2,4,NA,NA,NA,3,3,NA,3,1,4,5,4,1,0,4,4,2
+"Estudiante","Facultad de Ciencias Administrativas",15,3,5,1,5,1,3,NA,NA,NA,3,4,NA,3,1,2,5,5,2,0,3,1,2
+"Estudiante","Facultad de Ciencias Administrativas",3,3,3,1,1,1,4,NA,NA,NA,3,2,4,3,1,4,3,3,3,1,1,3,1
+"Estudiante","Facultad de Ciencias",12,3,4,2,3,3,1,NA,NA,NA,3,3,1,3,1,2,2,3,5,1,4,4,3
+"Estudiante","Facultad de Geología y Petróleos",4,3,3,4,2,2,3,NA,NA,NA,3,3,5,5,1,1,2,2,3,0,5,2,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",8,4,2,2,1,0,1,NA,NA,NA,4,5,3,1,1,5,4,5,3,0,5,5,1
+"Estudiante","Facultad de Ciencias Administrativas",21,1,3,1,2,0,NA,NA,NA,NA,5,3,5,2,1,4,4,1,3,1,NA,2,4
+"Estudiante","Facultad de Ciencias Administrativas",14,4,3,4,1,2,NA,NA,NA,NA,2,NA,2,3,1,3,2,3,3,0,3,4,3
+"Estudiante","Facultad de Ingeniería Mecánica",13,3,5,3,3,1,3,NA,NA,NA,3,2,1,2,1,5,4,1,2,1,4,5,4
+"Estudiante","Facultad de Ingeniería Mecánica",1,2,1,3,1,2,4,NA,NA,NA,3,3,3,4,0,2,3,2,4,1,4,4,2
+"Estudiante","Facultad de Ciencias",3,NA,2,4,1,1,3,NA,NA,NA,3,1,4,2,0,4,4,5,3,1,3,2,1
+"Estudiante","Facultad de Ingeniería de Sistemas",22,3,2,2,5,3,4,NA,NA,NA,2,4,4,1,1,3,4,3,2,0,1,4,2
+"Estudiante","Facultad de Ciencias",1,4,2,2,4,1,1,NA,NA,NA,3,3,2,2,0,1,4,2,2,0,3,2,2
+"Estudiante","Facultad de Ingeniería Mecánica",9,3,NA,3,4,2,4,NA,NA,NA,2,3,5,1,1,1,3,3,2,0,2,5,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",13,NA,1,1,5,0,3,NA,NA,NA,2,5,3,1,NA,5,5,2,4,1,NA,1,2
+"Estudiante","Facultad de Ciencias Administrativas",14,4,5,4,5,1,3,NA,NA,NA,NA,3,4,3,0,3,4,4,4,0,NA,4,2
+"Estudiante","Facultad de Ingeniería Mecánica",15,3,3,2,3,2,4,NA,NA,NA,5,3,2,1,1,1,5,3,3,0,3,3,1
+"Estudiante","Facultad de Geología y Petróleos",7,2,NA,5,4,0,4,NA,NA,NA,1,3,3,5,0,3,5,3,4,0,2,NA,4
+"Estudiante","Facultad de Geología y Petróleos",3,3,1,4,NA,0,3,NA,NA,NA,2,3,1,NA,0,3,5,2,2,0,3,2,4
+"Estudiante","Facultad de Ingeniería de Sistemas",6,5,4,4,2,1,2,NA,NA,NA,3,1,2,5,1,3,4,2,3,0,4,4,1
+"Estudiante","Facultad de Ingeniería de Sistemas",3,4,3,2,NA,2,2,NA,NA,NA,3,NA,4,4,NA,5,4,5,1,0,2,4,4
+"Estudiante","Facultad de Geología y Petróleos",12,3,3,5,2,0,4,NA,NA,NA,2,4,3,5,1,3,1,3,1,0,3,4,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",15,2,1,2,1,0,1,NA,NA,NA,5,5,3,3,NA,3,5,4,2,0,2,5,3
+"Estudiante","Facultad de Ingeniería Mecánica",21,3,5,5,4,1,NA,NA,NA,NA,2,3,2,4,0,1,3,4,3,1,5,4,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",10,2,4,1,2,3,2,NA,NA,NA,NA,2,3,2,1,5,3,3,1,1,3,1,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",3,2,3,4,1,0,2,NA,NA,NA,2,3,2,3,1,2,4,3,5,0,3,1,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",14,4,2,1,5,3,2,NA,NA,NA,1,NA,3,2,0,2,2,1,3,0,5,1,2
+"Estudiante","Facultad de Geología y Petróleos",13,3,3,1,5,1,3,NA,NA,NA,3,2,5,3,0,2,3,2,3,0,1,NA,1
+"Estudiante","Facultad de Ingeniería de Sistemas",7,NA,2,NA,3,0,2,NA,NA,NA,2,2,5,3,1,2,3,2,1,0,NA,4,4
+"Estudiante","Facultad de Ciencias Administrativas",1,NA,5,4,3,1,2,NA,NA,NA,1,1,3,1,0,4,4,1,3,1,2,5,4
+"Estudiante","Facultad de Ingeniería de Sistemas",13,2,1,3,2,0,4,NA,NA,NA,5,2,3,2,NA,4,3,1,4,1,5,3,3
+"Estudiante","Facultad de Geología y Petróleos",15,5,5,3,3,0,1,NA,NA,NA,2,5,NA,2,0,3,4,5,4,0,5,2,4
+"Estudiante","Facultad de Geología y Petróleos",6,5,1,1,3,3,2,NA,NA,NA,2,3,NA,4,1,3,3,4,5,1,5,4,2
+"Estudiante","Facultad de Ciencias",11,NA,2,2,4,0,3,NA,NA,NA,3,4,1,5,0,1,2,1,2,1,4,4,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",6,3,3,2,5,NA,3,NA,NA,NA,5,5,1,4,0,3,3,3,1,0,2,2,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",12,3,3,3,3,1,4,NA,NA,NA,4,2,5,3,0,3,1,3,3,1,5,3,1
+"Estudiante","Facultad de Ciencias Administrativas",7,4,1,1,5,2,2,NA,NA,NA,4,1,3,1,1,3,1,2,1,1,3,2,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",6,2,2,1,3,2,2,NA,NA,NA,2,3,5,5,0,1,3,3,3,1,2,NA,3
+"Estudiante","Facultad de Ingeniería Mecánica",9,3,1,4,4,0,4,NA,NA,NA,3,5,1,5,0,5,3,1,2,1,1,4,2
+"Estudiante","Facultad de Ciencias Administrativas",6,3,5,NA,1,1,2,NA,NA,NA,2,2,1,3,0,4,3,5,4,0,2,3,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",4,3,NA,2,2,3,3,NA,NA,NA,4,3,4,3,0,2,5,4,5,0,4,5,1
+"Estudiante","Facultad de Ingeniería de Sistemas",6,4,NA,2,3,3,2,NA,NA,NA,4,1,1,5,0,4,3,3,5,1,4,5,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",8,NA,2,2,3,NA,3,NA,NA,NA,4,2,4,3,0,2,3,1,5,1,4,4,4
+"Estudiante","Facultad de Geología y Petróleos",9,2,5,3,3,3,2,NA,NA,NA,3,4,5,5,0,3,1,3,4,0,5,3,2
+"Estudiante","Facultad de Geología y Petróleos",17,NA,3,4,3,NA,3,NA,NA,NA,NA,5,NA,5,1,4,3,5,4,1,3,3,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",0,NA,1,3,3,NA,1,NA,NA,NA,1,3,3,3,NA,2,4,1,4,1,5,2,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",7,5,2,NA,2,2,2,NA,NA,NA,5,4,3,NA,1,2,1,3,4,1,1,4,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",12,3,3,1,3,0,4,NA,NA,NA,2,3,3,5,NA,1,5,2,4,1,4,5,2
+"Estudiante","Facultad de Geología y Petróleos",19,3,5,2,NA,3,4,NA,NA,NA,2,3,3,3,1,3,4,3,3,0,4,4,3
+"Estudiante","Facultad de Geología y Petróleos",11,3,3,NA,3,2,NA,NA,NA,NA,3,4,3,2,0,3,5,2,4,1,NA,4,3
+"Estudiante","Facultad de Ingeniería Mecánica",8,1,4,1,1,3,3,NA,NA,NA,2,3,5,NA,0,1,4,2,4,1,1,3,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",6,4,4,NA,NA,2,2,NA,NA,NA,4,3,3,1,0,2,2,5,2,1,3,NA,4
+"Estudiante","Facultad de Geología y Petróleos",10,2,4,4,3,0,1,NA,NA,NA,5,3,NA,2,0,3,5,3,3,1,1,3,1
+"Estudiante","Facultad de Ciencias Administrativas",14,5,4,3,NA,0,2,NA,NA,NA,5,3,3,3,0,4,2,4,3,0,NA,2,4
+"Estudiante","Facultad de Ciencias Administrativas",7,5,1,4,2,0,3,NA,NA,NA,3,3,5,3,0,2,4,3,3,1,4,2,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",9,NA,3,2,2,2,3,NA,NA,NA,4,5,1,4,0,3,4,5,1,0,4,4,1
+"Estudiante","Facultad de Ciencias",9,1,3,1,5,0,3,NA,NA,NA,4,5,3,3,0,2,3,1,3,0,5,5,3
+"Estudiante","Facultad de Ingeniería Mecánica",12,3,3,1,4,0,3,NA,NA,NA,4,4,NA,3,1,4,1,4,1,0,NA,4,3
+"Estudiante","Facultad de Geología y Petróleos",15,2,2,2,3,3,3,NA,NA,NA,4,2,3,NA,0,3,1,4,2,0,4,2,2
+"Estudiante","Facultad de Ciencias",10,NA,1,1,5,2,3,NA,NA,NA,3,3,3,3,0,4,3,1,5,1,4,5,4
+"Estudiante","Facultad de Ingeniería de Sistemas",8,3,4,1,4,0,1,NA,NA,NA,1,5,1,3,0,3,3,4,2,0,2,2,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",16,5,3,2,3,3,2,NA,NA,NA,3,1,3,1,0,3,1,3,3,1,3,1,4
+"Estudiante","Facultad de Ingeniería de Sistemas",9,5,3,3,3,0,NA,NA,NA,NA,5,2,5,3,0,2,1,1,3,0,5,3,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",17,2,3,4,NA,0,1,NA,NA,NA,2,NA,3,4,NA,2,2,1,4,1,3,1,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",8,4,1,3,2,2,2,NA,NA,NA,5,1,4,3,0,3,5,1,1,1,2,4,4
+"Estudiante","Facultad de Ciencias Administrativas",12,NA,3,3,NA,0,2,NA,NA,NA,3,3,NA,3,0,2,3,1,5,1,NA,NA,1
+"Estudiante","Facultad de Ciencias Administrativas",1,3,NA,2,2,1,3,NA,NA,NA,4,3,2,2,1,1,3,2,2,1,NA,5,2
+"Estudiante","Facultad de Ciencias Administrativas",7,NA,4,5,5,3,1,NA,NA,NA,2,3,4,3,1,4,4,2,2,1,4,5,4
+"Estudiante","Facultad de Geología y Petróleos",8,4,2,4,3,2,3,NA,NA,NA,5,3,4,3,NA,2,2,2,4,1,1,4,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",3,3,1,2,4,2,1,NA,NA,NA,5,2,4,4,NA,3,5,3,3,0,4,5,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",2,4,1,NA,3,1,3,NA,NA,NA,1,5,3,5,1,3,3,3,4,1,4,3,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",14,1,1,5,3,1,4,NA,NA,NA,3,2,3,5,0,4,1,5,1,1,3,2,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",13,3,5,NA,1,1,3,NA,NA,NA,4,4,5,NA,NA,5,5,3,4,1,2,3,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",0,2,1,3,NA,2,NA,NA,NA,NA,NA,NA,1,4,0,3,5,4,2,0,4,NA,4
+"Estudiante","Facultad de Ciencias Administrativas",11,NA,2,4,5,0,3,NA,NA,NA,5,2,1,3,1,2,1,1,2,1,4,1,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",1,NA,2,1,2,NA,3,NA,NA,NA,4,2,3,2,1,3,1,3,4,0,2,NA,3
+"Estudiante","Facultad de Ciencias",2,3,NA,2,4,3,NA,NA,NA,NA,1,NA,3,1,0,3,4,4,4,0,5,3,2
+"Estudiante","Facultad de Ciencias Administrativas",11,2,4,4,4,0,4,NA,NA,NA,1,1,2,4,0,3,4,1,4,1,1,3,3
+"Estudiante","Facultad de Ciencias",4,3,3,4,5,0,4,NA,NA,NA,3,2,4,2,0,3,3,4,3,1,NA,4,3
+"Estudiante","Facultad de Ciencias Administrativas",14,4,5,2,5,1,4,NA,NA,NA,3,1,2,3,1,3,5,3,3,0,2,2,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",8,4,3,NA,2,NA,2,NA,NA,NA,2,1,5,3,1,2,5,3,4,0,2,1,4
+"Estudiante","Facultad de Geología y Petróleos",11,2,5,3,1,3,3,NA,NA,NA,5,4,3,5,1,5,4,4,1,1,5,2,1
+"Estudiante","Facultad de Geología y Petróleos",5,3,1,NA,2,2,3,NA,NA,NA,2,2,3,3,0,3,2,3,1,0,3,NA,1
+"Estudiante","Facultad de Ingeniería de Sistemas",1,3,3,NA,1,2,4,NA,NA,NA,3,NA,4,2,NA,3,3,2,1,1,3,2,1
+"Estudiante","Facultad de Ciencias",13,2,NA,2,4,0,NA,NA,NA,NA,3,3,1,5,NA,2,3,2,2,0,4,1,2
+"Estudiante","Facultad de Ingeniería de Sistemas",9,2,4,1,4,1,1,NA,NA,NA,3,2,2,4,1,3,3,4,1,1,5,4,4
+"Estudiante","Facultad de Ciencias Administrativas",7,NA,5,3,NA,0,4,NA,NA,NA,3,2,4,2,1,1,5,2,1,1,5,4,2
+"Estudiante","Facultad de Geología y Petróleos",8,3,5,4,3,1,3,NA,NA,NA,3,5,2,1,1,3,4,4,4,1,2,4,4
+"Estudiante","Facultad de Ciencias",16,1,2,1,5,0,2,NA,NA,NA,NA,5,4,5,1,3,3,5,3,0,3,4,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",4,2,1,3,5,2,3,NA,NA,NA,3,1,5,3,1,5,3,2,3,0,5,1,1
+"Estudiante","Facultad de Geología y Petróleos",4,1,NA,2,2,2,1,NA,NA,NA,3,1,3,2,NA,5,5,1,4,1,4,4,2
+"Estudiante","Facultad de Ciencias",4,4,2,5,4,3,4,NA,NA,NA,2,3,4,2,0,2,4,2,3,1,3,4,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",2,1,2,2,3,0,4,NA,NA,NA,5,5,5,3,1,4,4,1,2,1,2,1,1
+"Estudiante","Facultad de Geología y Petróleos",13,2,1,1,4,1,3,NA,NA,NA,2,3,3,5,1,4,5,1,4,1,4,3,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",9,1,1,3,2,1,1,NA,NA,NA,5,3,1,3,1,1,4,2,1,0,1,3,4
+"Estudiante","Facultad de Ingeniería Mecánica",9,5,3,NA,4,3,4,NA,NA,NA,3,2,2,1,0,4,4,1,4,0,3,3,3
+"Estudiante","Facultad de Ciencias Administrativas",8,3,NA,3,2,3,NA,NA,NA,NA,2,3,4,1,1,3,5,4,3,0,2,4,3
+"Estudiante","Facultad de Geología y Petróleos",5,4,2,2,3,3,4,NA,NA,NA,3,3,3,1,0,2,5,4,2,1,2,4,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",3,1,3,2,4,0,1,NA,NA,NA,4,5,3,5,1,2,2,4,3,1,3,4,2
+"Estudiante","Facultad de Ingeniería Mecánica",13,5,1,4,1,3,2,NA,NA,NA,3,4,1,2,0,3,5,3,4,0,4,NA,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",1,4,5,NA,5,3,1,NA,NA,NA,1,4,2,4,1,2,3,2,4,0,1,2,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",11,5,NA,4,3,3,1,NA,NA,NA,5,5,3,NA,0,3,3,5,4,0,NA,4,2
+"Estudiante","Facultad de Ciencias",3,3,NA,4,4,1,2,NA,NA,NA,3,1,NA,3,1,2,3,5,2,0,3,NA,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",10,NA,3,3,3,1,2,NA,NA,NA,3,3,3,3,0,1,4,2,4,0,1,4,2
+"Estudiante","Facultad de Ingeniería Mecánica",4,2,NA,1,3,0,1,NA,NA,NA,4,4,3,5,0,3,3,4,5,1,3,5,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",5,4,2,4,2,0,4,NA,NA,NA,3,5,1,4,1,4,5,2,4,0,3,2,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",19,1,4,5,4,NA,3,NA,NA,NA,5,NA,1,3,0,4,3,5,2,1,4,1,3
+"Estudiante","Facultad de Ingeniería de Sistemas",12,1,4,3,5,1,3,NA,NA,NA,4,1,4,3,1,5,2,4,1,0,2,2,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",5,NA,1,2,4,1,4,NA,NA,NA,4,2,4,5,1,1,1,5,5,1,2,5,3
+"Estudiante","Facultad de Ciencias",9,2,4,1,2,3,3,NA,NA,NA,2,1,3,2,1,5,5,3,3,1,2,2,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",5,4,4,3,NA,1,2,NA,NA,NA,2,2,4,4,0,4,3,5,3,0,NA,NA,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",1,4,1,4,5,NA,2,NA,NA,NA,1,5,4,1,0,3,4,1,3,0,5,3,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",9,1,2,2,1,0,1,NA,NA,NA,4,2,3,3,0,5,4,3,2,1,2,NA,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",9,4,2,NA,3,1,3,NA,NA,NA,1,1,3,1,1,3,3,1,3,1,1,5,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",6,3,5,4,5,3,4,NA,NA,NA,2,NA,2,2,NA,2,3,4,4,1,3,NA,1
+"Estudiante","Facultad de Geología y Petróleos",20,5,5,4,5,3,NA,NA,NA,NA,3,1,2,4,0,3,4,5,2,1,3,2,1
+"Estudiante","Facultad de Ingeniería Mecánica",5,5,NA,2,1,0,1,NA,NA,NA,3,5,2,3,1,1,2,2,3,0,3,4,3
+"Estudiante","Facultad de Ingeniería de Sistemas",13,2,3,3,2,3,2,NA,NA,NA,3,5,5,1,1,4,5,2,4,0,2,5,4
+"Estudiante","Facultad de Geología y Petróleos",6,3,1,3,4,NA,NA,NA,NA,NA,2,3,3,4,1,2,4,3,5,1,4,4,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",12,3,NA,4,3,0,1,NA,NA,NA,2,3,3,2,0,1,1,1,4,1,3,3,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",5,3,4,NA,4,0,3,NA,NA,NA,4,4,5,3,1,4,3,1,4,1,2,3,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",4,4,3,1,5,2,2,NA,NA,NA,5,2,NA,3,0,4,3,3,4,0,1,4,3
+"Estudiante","Facultad de Ciencias Administrativas",2,4,3,5,2,0,1,NA,NA,NA,4,4,3,3,0,3,2,3,4,1,5,2,3
+"Estudiante","Facultad de Ciencias",7,4,NA,NA,2,2,3,NA,NA,NA,5,4,4,5,0,1,2,3,3,0,4,4,4
+"Estudiante","Facultad de Geología y Petróleos",23,1,2,3,1,0,3,NA,NA,NA,1,3,2,5,0,2,1,1,4,1,5,4,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",14,2,4,4,2,0,NA,NA,NA,NA,4,2,3,3,1,3,3,5,4,0,2,2,4
+"Estudiante","Facultad de Ciencias Administrativas",18,3,3,4,2,2,NA,NA,NA,NA,5,3,NA,2,1,2,1,4,1,0,5,2,2
+"Estudiante","Facultad de Ingeniería de Sistemas",13,NA,3,1,5,1,3,NA,NA,NA,5,2,2,5,0,4,4,1,3,0,5,3,3
+"Estudiante","Facultad de Geología y Petróleos",15,3,3,4,4,1,2,NA,NA,NA,5,2,1,4,1,4,3,3,5,0,NA,5,4
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",13,4,3,2,5,0,4,NA,NA,NA,3,3,3,2,0,2,4,3,3,0,NA,2,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",11,5,4,5,4,NA,NA,NA,NA,NA,NA,3,NA,3,0,5,3,4,4,1,2,3,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",5,3,2,3,2,3,4,NA,NA,NA,3,2,3,NA,0,5,2,3,5,0,3,1,3
+"Estudiante","Facultad de Ciencias",5,3,5,1,4,0,2,NA,NA,NA,NA,5,3,4,NA,5,2,3,3,0,3,4,1
+"Estudiante","Facultad de Ciencias Administrativas",2,1,1,1,2,1,4,NA,NA,NA,3,4,1,3,NA,4,3,4,5,1,2,NA,1
+"Estudiante","Facultad de Ciencias Administrativas",8,3,3,2,3,NA,2,NA,NA,NA,4,3,2,NA,0,4,3,5,4,0,3,3,1
+"Estudiante","Facultad de Ingeniería Mecánica",13,1,1,5,1,0,2,NA,NA,NA,4,4,5,4,0,4,2,5,4,0,4,2,4
+"Estudiante","Facultad de Ingeniería Mecánica",14,5,3,5,2,0,NA,NA,NA,NA,NA,2,NA,4,0,1,3,3,3,0,4,2,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",9,1,5,4,3,0,4,NA,NA,NA,1,3,NA,4,NA,2,4,4,4,1,2,1,4
+"Estudiante","Facultad de Ciencias",5,5,3,5,1,1,3,NA,NA,NA,4,4,4,3,1,4,4,2,4,0,3,4,4
+"Estudiante","Facultad de Geología y Petróleos",28,2,3,5,3,1,3,NA,NA,NA,3,3,3,2,1,3,3,1,3,1,4,NA,1
+"Estudiante","Facultad de Ciencias Administrativas",12,2,3,1,2,3,1,NA,NA,NA,2,4,2,1,0,2,3,4,4,1,4,5,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",17,3,3,1,2,1,4,NA,NA,NA,4,3,5,2,0,3,5,3,1,1,NA,2,4
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",6,1,5,1,4,NA,2,NA,NA,NA,4,3,2,NA,1,5,4,1,3,0,3,3,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",8,4,2,3,5,0,3,NA,NA,NA,1,2,NA,2,0,2,4,5,1,1,3,3,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",11,NA,5,NA,3,1,3,NA,NA,NA,3,1,4,1,1,3,2,3,3,1,1,1,3
+"Estudiante","Facultad de Ciencias",18,5,3,1,5,1,2,NA,NA,NA,3,5,2,3,1,5,2,3,5,0,2,3,3
+"Estudiante","Facultad de Ciencias",6,5,3,4,3,0,4,NA,NA,NA,2,NA,5,1,1,4,5,4,1,1,1,4,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",13,5,5,NA,4,0,4,NA,NA,NA,3,NA,3,1,0,3,4,5,3,1,4,5,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",5,4,3,3,NA,0,2,NA,NA,NA,1,4,NA,4,0,2,5,1,4,0,2,4,2
+"Estudiante","Facultad de Ingeniería Mecánica",5,NA,2,4,5,3,1,NA,NA,NA,3,3,3,3,1,5,1,5,5,1,2,2,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",0,1,1,1,2,3,3,NA,NA,NA,1,4,3,4,1,3,3,5,3,1,4,5,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",15,3,3,1,4,3,2,NA,NA,NA,3,2,5,4,0,3,2,4,2,1,2,1,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",7,5,2,NA,3,2,4,NA,NA,NA,2,1,1,1,0,4,4,4,4,0,3,1,4
+"Estudiante","Facultad de Ingeniería de Sistemas",6,4,NA,2,2,NA,1,NA,NA,NA,3,3,3,3,1,5,3,2,3,1,3,4,4
+"Estudiante","Facultad de Ciencias Administrativas",16,4,4,3,3,0,NA,NA,NA,NA,2,5,3,3,1,2,2,3,3,0,3,NA,1
+"Estudiante","Facultad de Ciencias",15,5,1,1,5,3,1,NA,NA,NA,1,1,1,NA,0,4,3,5,2,0,5,2,4
+"Estudiante","Facultad de Ciencias Administrativas",3,2,4,5,1,0,NA,NA,NA,NA,1,5,5,5,0,2,2,3,1,0,5,2,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",11,5,1,3,1,2,1,NA,NA,NA,NA,5,NA,NA,NA,4,4,3,3,1,4,3,2
+"Estudiante","Facultad de Ciencias Administrativas",1,1,5,NA,3,NA,2,NA,NA,NA,NA,3,4,NA,1,2,2,3,5,0,4,1,3
+"Estudiante","Facultad de Ciencias Administrativas",5,5,4,2,4,2,3,NA,NA,NA,2,3,2,4,1,3,4,2,4,0,NA,3,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",18,2,NA,2,4,2,2,NA,NA,NA,4,2,3,2,0,4,5,5,3,1,3,2,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",17,3,2,5,NA,2,2,NA,NA,NA,2,1,NA,3,0,4,3,3,5,0,4,4,2
+"Estudiante","Facultad de Ingeniería Mecánica",15,5,5,3,5,0,1,NA,NA,NA,2,3,1,3,1,3,2,4,3,0,4,3,3
+"Estudiante","Facultad de Ingeniería Mecánica",5,3,4,4,5,0,3,NA,NA,NA,2,5,4,NA,0,3,5,1,4,0,2,4,1
+"Estudiante","Facultad de Ingeniería Mecánica",3,3,NA,2,5,NA,NA,NA,NA,NA,1,3,2,5,0,3,4,1,1,1,4,5,3
+"Estudiante","Facultad de Ingeniería de Sistemas",1,3,4,3,5,2,2,NA,NA,NA,NA,3,2,5,1,2,3,4,5,1,5,2,4
+"Estudiante","Facultad de Ingeniería de Sistemas",14,4,2,2,4,3,3,NA,NA,NA,4,3,NA,5,1,5,2,3,3,0,NA,3,3
+"Estudiante","Facultad de Geología y Petróleos",6,4,4,5,NA,NA,3,NA,NA,NA,4,1,NA,3,0,3,2,3,4,1,3,3,3
+"Estudiante","Facultad de Ingeniería Mecánica",5,NA,4,5,2,1,2,NA,NA,NA,2,5,2,2,0,1,1,3,4,0,4,5,3
+"Estudiante","Facultad de Ingeniería Mecánica",7,5,NA,4,2,0,3,NA,NA,NA,2,5,3,4,NA,4,5,1,2,0,3,3,4
+"Estudiante","Facultad de Ciencias Administrativas",16,5,2,4,2,0,1,NA,NA,NA,5,3,3,4,0,4,3,5,5,0,4,2,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",12,4,3,4,5,2,1,NA,NA,NA,3,1,1,2,1,4,4,3,5,1,1,1,1
+"Estudiante","Facultad de Ingeniería de Sistemas",3,1,3,NA,NA,2,3,NA,NA,NA,5,4,1,3,1,4,2,5,4,1,3,3,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",1,3,3,NA,3,0,1,NA,NA,NA,3,3,NA,5,0,1,3,3,3,0,4,2,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",3,3,NA,2,NA,1,3,NA,NA,NA,4,2,2,4,1,3,1,3,5,1,3,3,2
+"Estudiante","Facultad de Ingeniería Mecánica",8,1,3,4,2,0,3,NA,NA,NA,NA,4,3,5,1,2,3,3,1,1,NA,3,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",13,NA,5,2,3,3,3,NA,NA,NA,1,4,4,2,0,3,1,5,1,0,2,2,1
+"Estudiante","Facultad de Geología y Petróleos",4,2,2,NA,2,2,2,NA,NA,NA,4,4,4,4,0,3,1,3,2,0,1,3,4
+"Estudiante","Facultad de Ingeniería de Sistemas",14,2,4,2,1,2,NA,NA,NA,NA,2,3,5,4,0,3,3,3,4,1,4,3,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",8,1,4,2,NA,3,4,NA,NA,NA,NA,5,4,5,0,3,3,5,3,1,4,3,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",11,3,NA,1,NA,2,4,NA,NA,NA,2,5,4,2,0,2,4,2,3,0,4,4,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",2,5,5,3,4,3,2,NA,NA,NA,2,1,NA,NA,1,2,1,5,4,0,2,5,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",4,NA,4,3,4,3,2,NA,NA,NA,2,NA,3,NA,1,1,2,3,1,0,NA,4,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",5,1,5,NA,5,NA,2,NA,NA,NA,1,4,NA,5,0,2,4,3,3,0,4,2,2
+"Estudiante","Facultad de Ciencias",14,NA,2,3,3,1,4,NA,NA,NA,5,5,2,4,1,5,5,3,2,0,2,4,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",14,4,4,2,2,0,3,NA,NA,NA,4,4,5,3,1,2,4,3,3,1,1,3,4
+"Estudiante","Facultad de Ingeniería de Sistemas",11,NA,NA,3,4,NA,4,NA,NA,NA,2,3,3,2,0,5,3,3,3,1,5,4,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",18,1,4,4,1,0,3,NA,NA,NA,3,2,NA,3,0,3,5,3,3,1,3,NA,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",5,2,1,2,5,2,2,NA,NA,NA,2,3,3,5,1,1,2,4,2,0,5,3,1
+"Estudiante","Facultad de Geología y Petróleos",14,NA,3,2,3,3,2,NA,NA,NA,1,1,2,5,0,3,4,3,4,1,5,2,3
+"Estudiante","Facultad de Ingeniería de Sistemas",8,5,NA,1,2,2,4,NA,NA,NA,3,3,3,1,1,3,3,1,5,1,1,NA,1
+"Estudiante","Facultad de Ciencias",4,3,2,NA,1,2,NA,NA,NA,NA,5,4,5,3,1,5,2,2,1,1,5,1,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",14,4,2,5,3,NA,1,NA,NA,NA,4,NA,2,2,0,2,2,4,3,1,5,2,1
+"Estudiante","Facultad de Ingeniería Mecánica",16,2,2,3,5,1,2,NA,NA,NA,3,1,2,5,1,3,1,3,3,1,4,3,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",13,4,3,2,2,0,3,NA,NA,NA,2,3,3,2,0,3,5,3,2,1,3,3,2
+"Estudiante","Facultad de Ingeniería de Sistemas",5,4,NA,2,5,3,3,NA,NA,NA,3,4,2,2,0,4,3,2,3,0,5,5,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",5,3,3,3,5,0,1,NA,NA,NA,1,NA,NA,2,0,3,1,2,5,0,3,5,2
+"Estudiante","Facultad de Geología y Petróleos",16,2,3,1,NA,1,3,NA,NA,NA,2,2,3,2,0,4,1,2,2,0,3,3,4
+"Estudiante","Facultad de Ingeniería de Sistemas",10,3,2,3,3,2,1,NA,NA,NA,3,2,1,5,0,3,5,1,2,0,4,2,1
+"Estudiante","Facultad de Ingeniería de Sistemas",13,2,1,2,2,2,3,NA,NA,NA,NA,4,3,3,1,2,1,4,4,1,4,1,3
+"Estudiante","Facultad de Ciencias Administrativas",6,4,NA,4,2,0,4,NA,NA,NA,5,4,1,NA,1,5,3,3,1,1,2,2,2
+"Estudiante","Facultad de Ingeniería Mecánica",16,NA,3,3,5,0,4,NA,NA,NA,3,3,5,NA,1,1,1,4,3,1,4,5,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",3,3,1,2,2,3,4,NA,NA,NA,NA,5,3,4,1,3,1,2,2,1,2,5,4
+"Estudiante","Facultad de Ciencias Administrativas",12,2,NA,1,4,3,3,NA,NA,NA,1,5,5,3,1,2,1,2,3,1,1,5,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",3,3,3,2,NA,1,3,NA,NA,NA,2,4,2,3,0,2,1,3,2,1,5,4,4
+"Estudiante","Facultad de Ciencias Administrativas",7,3,3,NA,4,1,1,NA,NA,NA,3,4,3,2,1,2,1,5,1,0,NA,3,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",0,5,1,4,4,0,3,NA,NA,NA,NA,5,2,4,1,2,5,2,3,0,3,2,1
+"Estudiante","Facultad de Ciencias Administrativas",9,NA,2,2,5,NA,NA,NA,NA,NA,2,NA,3,5,0,3,3,2,2,1,4,3,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",13,1,5,3,3,0,4,NA,NA,NA,5,2,NA,2,1,5,2,5,5,0,3,2,2
+"Estudiante","Facultad de Ciencias Administrativas",3,5,5,1,5,1,1,NA,NA,NA,5,2,3,4,0,2,1,3,4,0,2,3,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",0,1,5,4,3,2,2,NA,NA,NA,2,5,4,3,1,1,3,2,2,0,1,3,2
+"Estudiante","Facultad de Ciencias Administrativas",19,4,4,2,2,1,4,NA,NA,NA,3,4,NA,3,1,4,4,3,2,0,2,3,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",5,2,4,NA,5,3,4,NA,NA,NA,3,5,5,3,0,2,3,2,4,1,3,NA,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",11,2,4,3,3,2,4,NA,NA,NA,2,5,2,4,1,1,3,2,1,0,3,3,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",5,3,3,3,NA,2,3,NA,NA,NA,NA,1,2,5,0,4,5,2,3,0,4,1,1
+"Estudiante","Facultad de Geología y Petróleos",6,3,4,4,1,1,NA,NA,NA,NA,3,5,4,1,0,2,3,4,4,0,2,2,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",9,2,1,3,3,1,4,NA,NA,NA,3,4,3,3,1,3,3,4,2,0,4,NA,2
+"Estudiante","Facultad de Ciencias",8,2,NA,3,4,0,NA,NA,NA,NA,4,3,NA,4,1,5,3,4,4,1,5,NA,4
+"Estudiante","Facultad de Ciencias Administrativas",7,4,3,1,5,1,2,NA,NA,NA,2,2,4,3,1,3,5,4,5,1,NA,4,3
+"Estudiante","Facultad de Ciencias",5,3,2,3,NA,3,3,NA,NA,NA,1,2,2,5,1,5,1,4,3,0,3,3,3
+"Estudiante","Facultad de Ciencias Administrativas",10,2,5,3,4,1,1,NA,NA,NA,NA,5,NA,5,1,5,4,4,2,1,3,3,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",19,3,3,4,4,NA,4,NA,NA,NA,2,1,NA,3,0,3,1,3,3,0,2,3,4
+"Estudiante","Facultad de Geología y Petróleos",19,4,4,2,3,NA,2,NA,NA,NA,1,4,3,2,0,3,2,4,5,0,2,NA,4
+"Estudiante","Facultad de Ciencias",1,3,5,4,4,0,3,NA,NA,NA,2,3,1,3,0,2,1,4,1,1,NA,3,3
+"Estudiante","Facultad de Ciencias",7,5,1,2,NA,0,4,NA,NA,NA,5,4,5,3,0,5,4,1,2,0,5,3,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",16,5,3,3,4,1,1,NA,NA,NA,4,5,3,1,1,5,1,2,5,0,1,5,4
+"Estudiante","Facultad de Ciencias",14,3,3,2,2,3,1,NA,NA,NA,5,3,3,5,0,5,2,2,4,1,3,5,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",16,4,5,4,4,0,2,NA,NA,NA,5,2,3,3,1,5,2,3,1,0,NA,5,3
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",2,4,NA,4,5,0,2,NA,NA,NA,3,5,3,2,1,4,3,1,3,0,2,1,4
+"Estudiante","Facultad de Ingeniería Mecánica",23,3,5,3,3,3,NA,NA,NA,NA,4,NA,4,4,0,3,5,4,4,1,3,5,4
+"Estudiante","Facultad de Geología y Petróleos",1,4,4,3,NA,2,3,NA,NA,NA,4,3,3,3,0,2,5,4,4,0,4,4,3
+"Estudiante","Facultad de Ingeniería Mecánica",13,1,3,1,5,2,4,NA,NA,NA,5,5,1,NA,0,4,4,3,3,1,3,5,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",9,1,NA,4,5,3,2,NA,NA,NA,3,3,1,1,1,4,2,2,3,0,3,4,3
+"Estudiante","Facultad de Ingeniería Mecánica",6,2,NA,1,NA,NA,4,NA,NA,NA,3,4,3,3,NA,1,2,3,2,0,2,2,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",6,3,1,5,2,1,4,NA,NA,NA,4,2,5,3,0,3,4,1,1,0,3,4,4
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",2,5,1,3,1,1,2,NA,NA,NA,2,3,2,4,1,3,2,2,1,1,1,1,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",18,2,4,4,3,3,3,NA,NA,NA,1,3,4,3,0,3,2,5,4,1,1,3,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",9,NA,1,4,3,3,4,NA,NA,NA,5,4,1,2,1,3,5,3,5,0,3,3,3
+"Estudiante","Facultad de Ingeniería Mecánica",10,2,4,5,5,0,2,NA,NA,NA,3,2,1,5,1,5,5,1,3,1,2,4,3
+"Estudiante","Facultad de Ciencias Administrativas",9,2,5,2,4,1,2,NA,NA,NA,5,1,5,1,1,1,4,4,3,0,2,5,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",6,2,5,3,2,1,3,NA,NA,NA,2,1,3,3,NA,2,5,3,4,0,2,5,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",1,2,3,4,2,3,1,NA,NA,NA,NA,4,4,NA,0,3,3,1,4,0,3,1,4
+"Estudiante","Facultad de Ingeniería Mecánica",10,5,3,2,NA,1,1,NA,NA,NA,2,5,1,5,0,3,4,4,5,0,1,4,3
+"Estudiante","Facultad de Ingeniería de Sistemas",5,4,3,4,4,0,3,NA,NA,NA,4,1,4,4,1,4,4,3,4,0,4,4,2
+"Estudiante","Facultad de Ciencias Administrativas",1,NA,1,4,3,2,2,NA,NA,NA,5,3,3,NA,NA,3,2,5,1,1,3,3,2
+"Estudiante","Facultad de Ciencias Administrativas",2,5,5,3,5,2,1,NA,NA,NA,5,5,5,1,1,2,2,2,2,1,2,3,2
+"Estudiante","Facultad de Ciencias Administrativas",2,2,3,4,2,3,4,NA,NA,NA,1,1,NA,2,0,5,2,4,4,1,2,3,3
+"Estudiante","Facultad de Ciencias Administrativas",9,NA,1,3,2,1,4,NA,NA,NA,5,4,2,5,0,2,1,3,2,1,2,3,4
+"Estudiante","Facultad de Ciencias Administrativas",18,5,4,4,5,NA,2,NA,NA,NA,3,3,4,2,1,2,5,4,1,0,NA,2,1
+"Estudiante","Facultad de Ciencias Administrativas",1,2,4,NA,4,NA,4,NA,NA,NA,2,3,1,2,0,4,4,5,4,1,2,1,3
+"Estudiante","Facultad de Geología y Petróleos",11,3,3,4,1,2,1,NA,NA,NA,1,4,3,3,0,1,2,3,2,0,5,4,1
+"Estudiante","Facultad de Geología y Petróleos",13,3,3,1,3,1,NA,NA,NA,NA,1,3,3,1,1,3,3,3,1,0,1,3,4
+"Estudiante","Facultad de Ciencias",2,1,4,4,3,NA,4,NA,NA,NA,3,1,2,3,1,3,1,4,4,0,3,3,2
+"Estudiante","Facultad de Ingeniería de Sistemas",8,4,1,3,4,0,3,NA,NA,NA,3,5,3,2,1,5,4,1,1,0,5,4,1
+"Estudiante","Facultad de Ingeniería Mecánica",13,1,3,1,5,0,3,NA,NA,NA,4,1,5,3,0,1,2,5,2,1,NA,5,3
+"Estudiante","Facultad de Ingeniería de Sistemas",6,1,2,1,3,2,2,NA,NA,NA,3,2,NA,4,1,3,3,2,2,1,3,3,3
+"Estudiante","Facultad de Ciencias",7,4,2,3,5,2,4,NA,NA,NA,1,1,2,2,NA,2,1,2,2,0,4,2,3
+"Estudiante","Facultad de Ciencias",10,2,4,1,4,NA,4,NA,NA,NA,1,4,4,4,1,1,3,4,5,1,3,4,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",8,4,3,4,3,1,3,NA,NA,NA,1,3,2,2,0,3,3,4,3,0,2,NA,3
+"Estudiante","Facultad de Ciencias",5,1,1,4,4,NA,4,NA,NA,NA,4,2,NA,1,1,5,5,3,3,0,1,2,1
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",7,1,3,2,3,2,3,NA,NA,NA,1,3,1,5,0,2,2,3,2,0,4,3,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",19,2,2,5,5,2,3,NA,NA,NA,4,3,NA,1,NA,5,1,5,3,1,3,2,3
+"Estudiante","Facultad de Geología y Petróleos",13,5,3,NA,3,0,NA,NA,NA,NA,NA,1,1,2,1,3,3,3,3,0,3,2,3
+"Estudiante","Facultad de Ingeniería Mecánica",3,2,1,1,4,NA,2,NA,NA,NA,2,1,4,4,1,3,2,4,3,1,NA,2,1
+"Estudiante","Facultad de Geología y Petróleos",1,2,NA,3,5,1,4,NA,NA,NA,NA,2,3,3,1,3,2,3,4,1,4,4,1
+"Estudiante","Facultad de Geología y Petróleos",6,3,2,4,4,0,1,NA,NA,NA,5,NA,2,4,0,3,2,5,3,1,5,3,3
+"Estudiante","Facultad de Geología y Petróleos",16,4,3,4,5,3,2,NA,NA,NA,3,NA,3,3,NA,2,1,3,3,0,3,1,1
+"Estudiante","Facultad de Ciencias Administrativas",10,NA,5,5,4,2,2,NA,NA,NA,4,3,2,1,0,3,2,5,1,1,3,NA,3
+"Estudiante","Facultad de Geología y Petróleos",4,4,3,3,3,0,3,NA,NA,NA,2,4,1,5,1,1,3,4,4,0,5,3,2
+"Estudiante","Facultad de Ciencias Administrativas",13,1,3,4,NA,1,4,NA,NA,NA,3,4,5,2,1,2,4,1,5,0,4,5,2
+"Estudiante","Facultad de Ciencias",7,NA,1,3,2,1,1,NA,NA,NA,5,3,2,1,0,4,3,3,3,1,2,5,4
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",1,4,2,4,5,2,1,NA,NA,NA,3,3,3,1,0,3,1,4,2,0,NA,2,4
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",11,5,1,3,3,3,1,NA,NA,NA,3,2,5,4,1,2,4,1,4,0,4,3,1
+"Estudiante","Facultad de Ciencias",17,4,5,3,5,0,4,NA,NA,NA,NA,4,4,3,1,3,3,5,1,0,4,3,4
+"Estudiante","Facultad de Geología y Petróleos",11,1,1,4,4,2,4,NA,NA,NA,2,5,5,NA,1,2,2,2,3,1,1,NA,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",9,5,NA,2,NA,1,2,NA,NA,NA,NA,5,1,1,NA,3,1,2,4,0,5,3,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",4,1,3,NA,2,2,4,NA,NA,NA,2,5,1,NA,1,1,2,1,2,0,5,4,1
+"Estudiante","Facultad de Geología y Petróleos",11,1,NA,4,4,0,3,NA,NA,NA,NA,4,5,NA,0,3,5,1,5,1,3,NA,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",2,NA,1,3,2,3,1,NA,NA,NA,3,1,4,4,0,5,3,4,2,1,3,5,1
+"Estudiante","Facultad de Ciencias",2,5,3,4,3,NA,1,NA,NA,NA,3,3,3,2,1,4,2,2,5,0,2,2,3
+"Estudiante","Facultad de Ingeniería Mecánica",8,4,3,3,5,0,1,NA,NA,NA,4,2,2,3,0,3,2,4,3,0,3,3,2
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",8,3,4,3,2,2,3,NA,NA,NA,1,3,2,3,0,2,3,1,2,1,3,NA,1
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",22,2,5,3,1,1,3,NA,NA,NA,2,NA,4,5,0,5,3,2,5,1,4,5,4
+"Estudiante","Facultad de Ingeniería de Sistemas",1,3,1,5,5,2,4,NA,NA,NA,4,1,3,NA,0,2,4,4,5,1,5,2,4
+"Estudiante","Facultad de Ciencias Administrativas",9,4,5,4,1,0,3,NA,NA,NA,5,4,5,5,0,5,4,5,1,0,4,3,2
+"Estudiante","Facultad de Geología y Petróleos",13,3,5,4,3,2,3,NA,NA,NA,5,NA,3,2,1,2,1,5,4,0,NA,2,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",14,5,2,1,3,1,3,NA,NA,NA,3,2,1,3,1,3,1,3,3,0,2,NA,2
+"Estudiante","Facultad de Geología y Petróleos",8,3,1,4,5,1,3,NA,NA,NA,3,1,3,1,1,4,5,3,3,0,4,3,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",4,3,2,4,3,3,3,NA,NA,NA,2,2,2,3,1,2,3,2,2,0,3,3,1
+"Estudiante","Facultad de Geología y Petróleos",8,1,1,3,2,0,1,NA,NA,NA,2,5,NA,5,1,5,5,3,1,1,5,5,3
+"Estudiante","Facultad de Ingeniería Mecánica",20,1,4,NA,4,0,1,NA,NA,NA,1,3,4,NA,0,5,3,4,3,0,1,3,1
+"Estudiante","Facultad de Geología y Petróleos",11,2,5,5,5,3,2,NA,NA,NA,3,1,3,4,1,5,3,2,1,0,2,1,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",4,4,NA,3,4,2,3,NA,NA,NA,3,2,5,3,0,3,3,4,3,1,2,4,3
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",17,4,5,2,3,1,1,NA,NA,NA,NA,1,5,3,NA,4,3,3,1,1,2,2,2
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",11,4,4,4,3,NA,2,NA,NA,NA,5,NA,3,4,0,4,1,2,3,1,2,4,4
+"Estudiante","Facultad de Ciencias",8,1,3,2,2,3,4,NA,NA,NA,3,3,4,3,NA,2,1,4,3,0,3,3,4
+"Estudiante","Facultad de Ciencias",8,3,3,4,2,0,1,NA,NA,NA,2,3,4,4,0,3,4,3,2,1,1,5,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",7,NA,1,3,4,0,4,NA,NA,NA,5,2,3,1,0,4,4,4,2,0,2,NA,2
+"Estudiante","Facultad de Ingeniería de Sistemas",10,3,2,2,3,0,1,NA,NA,NA,3,3,4,NA,0,3,3,3,3,1,4,4,4
+"Estudiante","Facultad de Ingeniería de Sistemas",5,2,4,4,3,NA,NA,NA,NA,NA,3,NA,NA,2,0,4,3,4,4,0,3,3,4
+"Estudiante","Facultad de Ciencias Administrativas",10,2,4,4,2,3,4,NA,NA,NA,3,3,3,1,NA,5,3,4,5,1,3,3,4
+"Estudiante","Facultad de Ciencias",2,4,1,3,3,NA,4,NA,NA,NA,4,3,1,3,1,1,1,5,1,1,2,NA,4
+"Estudiante","Facultad de Geología y Petróleos",9,5,5,1,5,NA,1,NA,NA,NA,3,NA,1,5,1,2,5,3,3,1,2,2,1
+"Estudiante","Facultad de Ingeniería Mecánica",15,NA,NA,NA,3,0,3,NA,NA,NA,4,2,4,2,1,1,3,1,3,1,2,3,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",11,2,2,3,5,2,3,NA,NA,NA,4,4,1,3,1,4,1,3,5,1,4,5,4
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",14,3,NA,3,5,0,NA,NA,NA,NA,3,3,5,4,0,3,5,4,5,1,3,2,1
+"Estudiante","Facultad de Ingeniería Civil y Ambiental",1,2,3,5,1,3,3,NA,NA,NA,1,5,3,3,NA,5,4,1,1,1,3,2,2
+"Estudiante","Facultad de Ingeniería Química y Agroindustria",8,5,4,3,1,2,NA,NA,NA,NA,3,5,4,3,1,5,3,1,5,1,4,1,3
+"Estudiante","Facultad de Ingeniería Eléctrica y Electrónica",12,3,3,3,2,3,1,NA,NA,NA,4,2,2,NA,1,1,1,3,1,0,3,NA,3
+"Estudiante","Facultad de Ingeniería de Sistemas",2,5,1,2,NA,1,4,NA,NA,NA,2,5,4,3,1,2,2,2,1,0,3,2,1
+"Estudiante","Facultad de Ingeniería Mecánica",17,5,3,4,4,1,3,NA,NA,NA,3,3,4,3,0,3,2,2,1,0,3,4,1
+"Estudiante","Facultad de Ciencias Administrativas",2,NA,3,3,2,1,NA,NA,NA,NA,1,5,3,4,0,2,3,3,1,1,4,5,2
+"Estudiante","Facultad de Ciencias Administrativas",9,2,2,2,5,3,2,NA,NA,NA,2,2,3,5,NA,3,3,3,1,1,2,5,4
+"Estudiante","Facultad de Ciencias",9,3,2,3,2,1,2,NA,NA,NA,2,5,5,5,1,2,4,3,2,1,NA,3,2
+"Estudiante","Facultad de Ingeniería Mecánica",9,2,3,5,NA,3,1,NA,NA,NA,4,1,2,NA,0,3,5,1,1,0,3,4,2
